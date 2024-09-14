@@ -1,0 +1,46 @@
+{
+    "verse_no": "३-३-९",
+    "verse": "तास्वपत्यान्यजनयदात्मतुल्यानि सर्वतः ।\nएकैकस्यां दश दश प्रकृतेर्विबुभूषया ॥",
+    "vedabase": {
+        "terms": {
+            "tāsu": "unto them",
+            "apatyāni": "offspring",
+            "ajanayat": "begot",
+            "ātma-tulyāni": "all like Himself",
+            "sarvataḥ": "in all respects",
+            "eka-ekasyām": "in each and every one of them",
+            "daśa": "ten",
+            "prakṛteḥ": "for expanding Himself",
+            "vibubhūṣayā": "so desiring."
+        },
+        "translation": "Just to expand Himself according to His transcendental features, the Lord begot in each and every one of them ten offspring with exactly His own qualities."
+    },
+    "gpt": {
+        "terms": {
+            "तासु": "among them (mothers)",
+            "अपत्यानि": "children",
+            "अजनयत्": "she gave birth",
+            "आत्मतुल्यानि": "equal in nature",
+            "सर्वतः": "in all aspects",
+            "एकैकस्यां": "in each case",
+            "दश दश": "ten ten (i.e. ten children each)",
+            "प्रकृतेः": "to each mother",
+            "विबुभूषया": "with great adornments"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "tāsu": "in them",
+            "apatyāni": "children",
+            "ajanayat": "produced",
+            "ātma-tulyāni": "equal to himself",
+            "sarvataḥ": "on every side",
+            "eka-ekasyām": "in each one",
+            "daśa": "ten",
+            "prakṛteḥ": "from the nature",
+            "vibubhūṣayā": "by adorning"
+        },
+        "meaning": "In them he produced children equal to himself on every side, by adorning the ten natures in each one."
+    }
+}

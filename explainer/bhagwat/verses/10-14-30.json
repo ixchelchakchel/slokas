@@ -1,0 +1,83 @@
+{
+    "verse_no": "१०-१४-३०",
+    "verse": "तदस्तु मे नाथ स भूरिभागो भवेऽत्र वान्यत्र तु वा तिरश्चाम् ।\nयेनाहमेकोऽपि भवज्जनानां भूत्वा निषेवे तव पादपल्लवम् ॥",
+    "vedabase": {
+        "terms": {
+            "tat": "therefore",
+            "astu": "may it be",
+            "me": "my",
+            "nātha": "O master",
+            "saḥ": "that",
+            "bhūri-bhāgaḥ": "greatest good fortune",
+            "bhave": "in the birth",
+            "atra": "this",
+            "vā": "or",
+            "anyatra": "in some other birth",
+            "tu": "indeed",
+            "tiraścām": "among the animals",
+            "yena": "by which",
+            "aham": "I",
+            "ekaḥ": "one",
+            "api": "even",
+            "bhavat": "or Your",
+            "janānām": "devotees",
+            "bhūtvā": "becoming",
+            "niṣeve": "I may fully engage in serving",
+            "tava": "Your",
+            "pāda-pallavam": "lotus feet."
+        },
+        "translation": "My dear Lord, I therefore pray to be so fortunate that in this life as Lord Brahmā or in another life, wherever I take my birth, I may be counted as one of Your devotees. I pray that wherever I may be, even among the animal species, I can engage in devotional service to Your lotus feet."
+    },
+    "gpt": {
+        "terms": {
+            "तत्": "That (Lord),",
+            "अस्तु": "May it be,",
+            "मे": "my,",
+            "नाथ": "O Lord,",
+            "सः": "He (you),",
+            "भूरिभागः": "the greatest portion,",
+            "भवेऽत्र": "may manifest here,",
+            "वान्यत्र": "or elsewhere,",
+            "तु": "but,",
+            "वा": "also,",
+            "तिरश्चाम्": "beyond both,",
+            "येन": "by which,",
+            "अहम्": "I,",
+            "एकः": "as one,",
+            "अपि": "even,",
+            "भवज्जनानाम्": "of your devotees,",
+            "भूत्वा": "becoming,",
+            "निषेवे": "may serve,",
+            "तव": "your,",
+            "पादपल्लवम्": "lotus feet."
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "tat": "that",
+            "astu": "be",
+            "me": "my",
+            "nātha": "lord",
+            "saḥ": "that",
+            "bhūri-bhāgaḥ": "very fortunate",
+            "bhave": "be",
+            "atra": "here",
+            "vā": "or",
+            "anyatra": "elsewhere",
+            "tu": "but",
+            "tiraścām": "far away",
+            "yena": "by which",
+            "aham": "I",
+            "ekaḥ": "one",
+            "api": "also",
+            "bhavat": "your",
+            "janānām": "people",
+            "bhūtvā": "being",
+            "niṣeve": "serve",
+            "tava": "your",
+            "pāda-pallavam": "feet"
+        },
+        "meaning": "Overall meaning:Let that one be very fortunate, whether he be here or elsewhere, far away, by which I, even being one, can serve the feet of your people."
+    }
+}

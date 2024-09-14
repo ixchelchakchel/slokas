@@ -1,0 +1,62 @@
+{
+    "verse_no": "११-१९-२७",
+    "verse": "धर्मो मद्भ‍‍क्तिकृत् प्रोक्तो ज्ञानं चैकात्म्यदर्शनम् ।\nगुणेष्वसङ्गो वैराग्यमैश्वर्यं चाणिमादयः ॥",
+    "vedabase": {
+        "terms": {
+            "dharmaḥ": "religion",
+            "mat": "My",
+            "bhakti": "devotional service",
+            "kṛt": "producing",
+            "proktaḥ": "it is declared",
+            "jñānam": "knowledge",
+            "ca": "also",
+            "aikātmya": "the presence of the Supreme Soul",
+            "darśanam": "seeing",
+            "guṇeṣu": "in the objects of sense gratification",
+            "asaṅgaḥ": "having no interest",
+            "vairāgyam": "detachment",
+            "aiśvaryam": "opulence",
+            "aṇimā": "the mystic perfection called aṇimā",
+            "ādayaḥ": "and so forth."
+        },
+        "translation": "Actual religious principles are stated to be those that lead one to My devotional service. Real knowledge is the awareness that reveals My all-pervading presence. Detachment is complete disinterest in the objects of material sense gratification, and opulence is the eight mystic perfections, such as aṇimā-siddhi.  ",
+        "purport": "The Supreme Lord is perfect knowledge; thus one who has been delivered from ignorance automatically engages in the devotional service of the Lord and is called religious. One who becomes detached from the three modes of material nature and the gratificatory objects they produce is considered to be situated in detachment. The eight mystic yoga perfections, described previously by the Lord to Uddhava, constitute material power, or opulence, in the highest degree."
+    },
+    "gpt": {
+        "terms": {
+            "धर्मः": "Dharma (righteousness)",
+            "मद्भक्तिकृत्": "cultivated through devotion to Me",
+            "प्रोक्तः": "declared as",
+            "ज्ञानं": "knowledge",
+            "चैकात्म्यदर्शनम्": "realization of the oneness of the individual soul and the Supreme Soul",
+            "गुणेषु": "in the qualities",
+            "असङ्गः": "non-attachment",
+            "वैराग्यम्": "detachment",
+            "ऐश्वर्यं": "sovereignty",
+            "च": "and",
+            "अणिमादयः": "the eight mystic perfections"
+        },
+        "meaning": " Righteousness is proclaimed to be cultivated through devotion to Me. Knowledge is the realization of the oneness of the individual soul and the Supreme Soul. Non attachment, detachment, sovereignty, and other qualities, as well as the eight mystic perfections, arise from the cultivation of these qualities."
+    },
+    "bard": {
+        "terms": {
+            "dharmaḥ": "dharma = religion",
+            "mat": "my",
+            "bhakti": "devotion",
+            "kṛt": "done",
+            "proktaḥ": "declared",
+            "jñānam": "knowledge",
+            "ca": "and",
+            "aikātmya": "oneness",
+            "darśanam": "vision",
+            "guṇeṣu": "in qualities",
+            "asaṅgaḥ": "non-attachment",
+            "vairāgyam": "dispassion",
+            "aiśvaryam": "super-human powers",
+            "aṇimā": "becoming small",
+            "ādayaḥ": "etc.",
+            "Dharma": "religion done by my devotion is declared, knowledge and vision of oneness, non-attachment in qualities, dispassion, super-human powers like becoming small etc."
+        },
+        "meaning": ""
+    }
+}

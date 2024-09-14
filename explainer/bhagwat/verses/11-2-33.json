@@ -1,0 +1,60 @@
+{
+    "verse_no": "११-२-३३",
+    "verse": "मन्येऽकुतश्चिद्भयमच्युतस्य पादाम्बुजोपासनमत्र नित्यम् ।\nउद्विग्नबुद्धेरसदात्मभावाद् विश्वात्मना यत्र निवर्तते भी: ॥",
+    "vedabase": {
+        "terms": {
+            "manye": "I consider",
+            "akutaścit-bhayam": "fearlessness",
+            "acyutasya": "of the infallible Lord",
+            "pāda-ambuja": "lotus feet",
+            "upāsanam": "worship",
+            "atra": "in this world",
+            "nityam": "constantly",
+            "udvigna-buddheḥ": "of one whose intelligence is disturbed",
+            "asat": "that which is only temporary",
+            "ātma-bhāvāt": "by thinking to be the self",
+            "viśva-ātmanā": "thoroughly",
+            "yatra": "in which (service to the Lord)",
+            "nivartate": "ceases",
+            "bhīḥ": "fear"
+        },
+        "meaning" : "Śrī Kavi said: I consider that one whose intelligence is constantly disturbed by his falsely identifying himself with the temporary material world can achieve real freedom from fear only by worshiping the lotus feet of the infallible Supreme Lord. In such devotional service, all fear ceases entirely"
+    },
+    "gpt": {
+        "terms": {
+            "मन्ये": "I consider",
+            "अकुतश्चित्": "without any reason",
+            "भयम्": "fear",
+            "अच्युतस्य": "of the infallible",
+            "पादाम्बुजोपासनम्": "devotion to the lotus feet",
+            "मत्र": "alone",
+            "नित्यम्": "always",
+            "उद्विग्नबुद्धेः": "of the agitated mind",
+            "असदात्मभावात्": "due to lack of self-realization",
+            "विश्वात्मना": "by the universal self",
+            "यत्र": "where",
+            "निवर्तते": "disappears",
+            "भीः": "fear"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "śrī-nāradaḥ": "Śrī Nārada",
+            "uvāca": "said",
+            "evam": "thus",
+            "te": "you",
+            "niminā": "in the name",
+            "pṛṣṭāḥ": "asked",
+            "vasudeva": "Vasudeva",
+            "mahat-tamāḥ": "the great",
+            "pratipūjya": "after worshiping",
+            "abruvan": "said",
+            "prītyā": "with pleasure",
+            "sa-sadasya": "with the assembly",
+            "ṛtvijam": "the priests",
+            "nṛpam": "the king"
+        },
+        "meaning": "Śrī Nārada said, Thus, you asked in the name of Vasudeva, the great, after worshiping, with pleasure, with the assembly, the priests, the king."
+    }
+}

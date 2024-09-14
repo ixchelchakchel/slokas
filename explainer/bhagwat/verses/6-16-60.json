@@ -1,0 +1,47 @@
+{
+    "verse_no": "६-१६-६०",
+    "verse": "सुखाय दुःखमोक्षाय कुर्वाते दम्पती क्रियाः ।\nततोऽनिवृत्तिरप्राप्तिर्दुःखस्य च सुखस्य च ॥",
+    "vedabase": {
+        "terms": {
+            "sukhāya": "for happiness",
+            "duḥkha-mokṣāya": "for release from the unhappy state",
+            "kurvāte": "perform",
+            "dam-patī": "the wife and husband",
+            "kriyāḥ": "activities",
+            "tataḥ": "from that",
+            "anivṛttiḥ": "no cessation",
+            "aprāptiḥ": "no achievement",
+            "duḥkhasya": "of distress",
+            "ca": "also.",
+            "sukhasya": "of happiness"
+        },
+        "translation": "As husband and wife, a man and woman plan together to attain happiness and decrease unhappiness, working jointly in many ways, but because their activities are full of desires, these activities are never a source of happiness, and they never diminish distress. On the contrary, they are a cause of great unhappiness."
+    },
+    "gpt": {
+        "terms": {
+            "सुखाय": "for the sake of happiness",
+            "दुःखमोक्षाय": "for liberation from sorrow",
+            "कुर्वाते": "perform",
+            "दम्पती": "the couple",
+            "क्रियाः": "actions",
+            "ततोऽनिवृत्तिरप्राप्तिर्दुःखस्य च सुखस्य च": "then, attainment of cessation of sorrow and happiness"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "sukhāya `": "for happiness`",
+            "duḥkha-mokṣāya `": "for getting rid of suffering`",
+            "kurvāte `": "he does`",
+            "dam-patī `": "controlling the senses`",
+            "kriyāḥ `": "actions`",
+            "tataḥ `": "then`",
+            "anivṛttiḥ `": "there is no return`",
+            "apraptiḥ `": "no getting`",
+            "duḥkhasya `": "of suffering`",
+            "ca `": "and`",
+            "sukhasya `": "of happiness`"
+        },
+        "meaning": "For happiness and for getting rid of suffering, he does actions controlling the senses; then there is no return and no getting of suffering and happiness."
+    }
+}

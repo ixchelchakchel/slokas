@@ -1,0 +1,63 @@
+{
+    "verse_no": "९-६-५०",
+    "verse": "अहो इमं पश्यत मे विनाशं तपस्विनः सच्चरितव्रतस्य ।\nअन्तर्जले वारिचरप्रसङ्गात् प्रच्यावितं ब्रह्म चिरं धृतं यत् ॥",
+    "vedabase": {
+        "terms": {
+            "aho": "alas",
+            "imam": "this",
+            "paśyata": "just see",
+            "me": "of me",
+            "vināśam": "falldown",
+            "tapasvinaḥ": "who was such a great mystic performing austerity",
+            "sat-carita": "of very good character, observing all necessary rules and regulations",
+            "vratasya": "of one who has taken a vow strictly",
+            "antaḥ-jale": "in the depths of the water",
+            "vāri-cara-prasaṅgāt": "because of the affairs of the aquatics",
+            "pracyāvitam": "fallen",
+            "brahma": "from the activities of Brahman realization or austerity",
+            "ciram": "for a long time",
+            "dhṛtam": "executed",
+            "yat": "which."
+        },
+        "translation": "Alas! While practicing austerity, even within the depths of the water, and while observing all the rules and regulations practiced by saintly persons, I lost the results of my long austerities simply by association with the sexual affairs of fish. Everyone should observe this falldown and learn from it."
+    },
+    "gpt": {
+        "terms": {
+            "अहो (aho)": "Oh!",
+            "इमं (imam)": "this",
+            "पश्यत (pashyat)": "behold",
+            "मे (me)": "my",
+            "विनाशं (vinasham)": "destruction",
+            "तपस्विनः (tapasvinah)": "of ascetics",
+            "सच्चरितव्रतस्य (saccharitravratasya)": "who observe righteous conduct and vows",
+            "अन्तर्जले (antarjale)": "in the midst of water",
+            "वारिचरप्रसङ्गात् (varicharaprasangat)": "because of the attack by aquatic animals",
+            "प्रच्यावितं (prachyavitam)": "engulfed",
+            "ब्रह्म (brahma)": "divine power",
+            "चिरं (chiram)": "for a long time",
+            "धृतं (dhritam)": "remained",
+            "यत् (yat)": "which"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "aho": "alas",
+            "imam": "this",
+            "paśyata": "see",
+            "me": "my",
+            "vināśam": "destruction",
+            "tapasvinaḥ": "of the ascetic",
+            "sat-carita": "virtuous",
+            "vratasya": "of the vow",
+            "antaḥ-jale": "in the water",
+            "vāri-cara-prasaṅgāt": "of the water-walking",
+            "pracyāvitam": "being immersed",
+            "brahma": "brahman",
+            "ciram": "for a long time",
+            "dhṛtam": "held",
+            "yat": "that"
+        },
+        "meaning": "Alas, see my destruction, of the ascetic, of the virtuous vow, in the water, of the water-walking, being immersed, brahman, for a long time, held that."
+    }
+}

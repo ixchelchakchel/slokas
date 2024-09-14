@@ -1,0 +1,57 @@
+{
+    "verse_no": "१-१९-३८",
+    "verse": "यच्छ्रोतव्यमथो जप्यं यत्कर्तव्यं नृभि: प्रभो ।\nस्मर्तव्यं भजनीयं वा ब्रूहि यद्वा विपर्ययम् ॥",
+    "vedabase": {
+        "terms": {
+            "yat": "what also",
+            "śrotavyam": "worth hearing",
+            "atho": "thereof",
+            "japyam": "chanted",
+            "kartavyam": "executed",
+            "nṛbhiḥ": "by the people in general",
+            "prabho": "O master",
+            "smartavyam": "that which is remembered",
+            "bhajanīyam": "worshipable",
+            "vā": "either",
+            "brūhi": "please explain",
+            "yad vā": "what it may be",
+            "viparyayam": "against the principle."
+        },
+        "translation": "Please let me know what a man should hear, chant, remember and worship, and also what he should not do. Please explain all this to me."
+    },
+    "gpt": {
+        "terms": {
+            "यत्": "that",
+            "श्रोतव्यं": "is to be heard",
+            "अथवा": "or",
+            "जप्यं": "is to be chanted",
+            "कर्तव्यं": "is to be done",
+            "नृभिः": "by men",
+            "प्रभो।": "Oh Lord!",
+            "स्मर्तव्यं": "is to be remembered",
+            "भजनीयं": "is to be worshipped",
+            "वा": "or",
+            "ब्रूहि": "tell",
+            "विपर्ययम्॥": "contrary"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "yat": "what",
+            "śrotavyam": "to be heard",
+            "athā": "and",
+            "japyam": "to be meditated",
+            "kartavyam": "to be done",
+            "nṛbhiḥ": "by human beings",
+            "prabho": "O Lord",
+            "smartavyam": "to be remembered",
+            "bhajanīyam": "to be worshipped",
+            "vā": "or",
+            "brūhi": "tell me",
+            "yad": "what",
+            "viparyayam": "opposite"
+        },
+        "meaning": "What to be heard and meditated and done by human beings, O Lord, tell me what is to be remembered and worshipped or the opposite?"
+    }
+}

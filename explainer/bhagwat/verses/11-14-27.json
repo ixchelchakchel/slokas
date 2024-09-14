@@ -1,0 +1,50 @@
+{
+    "verse_no": "११-१४-२७",
+    "verse": "विषयान् ध्यायतश्चित्तं विषयेषु विषज्जते ।\nमामनुस्मरतश्चित्तं मय्येव प्रविलीयते ॥",
+    "vedabase": {
+        "terms": {
+            "viṣayān": "objects of sense gratification",
+            "dhyāyataḥ": "of one who is meditating on",
+            "cittam": "the consciousness",
+            "viṣayeṣu": "in the objects of gratification",
+            "viṣajjate": "becomes attached",
+            "mām": "Me",
+            "anusmarataḥ": "of one remembering constantly",
+            "mayi": "in Me",
+            "eva": "certainly",
+            "pravilīyate": "is absorbed."
+        },
+        "translation": "The mind of one meditating upon the objects of sense gratification is certainly entangled in such objects, but if one constantly remembers Me, then the mind is absorbed in Me.  ",
+        "purport": "One should not think that one can attain complete transcendental knowledge of Kṛṣṇa by mechanically engaging in worship of the Lord. Lord Kṛṣṇa states here that one must endeavor constantly to keep the Lord within one’s mind. Anusmarataḥ, or constant remembrance, is possible for one who always chants and hears the glories of Lord Kṛṣṇa. It is therefore stated, śravaṇam, kīrtanam, smaraṇam: the process of devotional service begins with hearing (śravaṇam) and chanting (kīrtanam), from which remembrance (smaraṇam) develops. One who constantly thinks of the objects of material gratification becomes attached to them; similarly, one who constantly keeps Lord Kṛṣṇa within his mind becomes absorbed in the Lord’s transcendental nature and thus becomes qualified to render personal service to the Lord in His own abode."
+    },
+    "gpt": {
+        "terms": {
+            "विषयान्": "objects of the senses",
+            "ध्यायतः": "while contemplating",
+            "चित्तं": "the mind",
+            "विषयेषु": "among the objects",
+            "विषज्जते": "gets attached",
+            "माम्": "Me (God)",
+            "अनुस्मरतः": "while remembering",
+            "मयि": "in Me (God)",
+            "एव": "only",
+            "प्रविलीयते": "merges"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "viṣayān": "> objects",
+            "dhyāyataḥ": "> when meditating on",
+            "cittam": "> mind",
+            "viṣayeṣu": "> in objects",
+            "viṣajjate": "> gets scattered",
+            "mām": "> me",
+            "anusmarataḥ": "> while remembering",
+            "mayi": "> in me",
+            "eva": "> only",
+            "pravilīyate": "> gets absorbed"
+        },
+        "meaning": "When meditating on objects, the mind gets scattered in objects. While remembering me, the mind gets absorbed in me only."
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "verse_no": "१२-६-२५",
+    "verse": "जीवितं मरणं जन्तोर्गतिः स्वेनैव कर्मणा ।\nराजंस्ततोऽन्यो नास्त्यस्य प्रदाता सुखदुःखयोः ॥",
+    "meaning": "अपने अपने कर्म के अनुसार प्रारब्ध के अनुसार लोग आते हैं और समय पूरा होने के बाद फिर चले जाते हैं उसमें करेक्शन कोई नहीं कर सकता",
+    "vedabase": {
+        "terms": {
+            "jīvitam": "the living",
+            "maraṇam": "the dying",
+            "jantoḥ": "of a living being",
+            "gatiḥ": "the destination in his next life",
+            "svena": "by his own",
+            "eva": "only",
+            "karmaṇā": "work",
+            "rājan": "O King",
+            "tataḥ": "than that",
+            "anyaḥ": "another",
+            "na asti": "there is not",
+            "asya": "for him",
+            "pradātā": "bestower",
+            "sukha-duḥkhayoḥ": "of happiness and distress."
+        },
+        "translation": "The life and death of an embodied soul and his destination in the next life are all caused by himself through his own activity. Therefore, O King, no other agent is actually responsible for creating one’s happiness and distress.  ",
+        "purport": "Although King Parīkṣit apparently died by the bite of Takṣaka, it was Lord Kṛṣṇa Himself who brought the King back to the kingdom of God. Bṛhaspati wanted young King Janamejaya to see things from the spiritual point of view."
+    },
+    "gpt": {
+        "terms": {
+            "जीवितं": "life",
+            "मरणं": "death",
+            "जन्तोर्गतिः": "the movement of beings",
+            "स्वेनैव": "by their own",
+            "कर्मणा": "actions",
+            "राजंस्ततोऽन्यो नास्त्यस्य": "There is no other ruler than this",
+            "प्रदाता": "giver",
+            "सुखदुःखयोः": "of happiness and sorrow"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "jīvitam": "life",
+            "maraṇam": "death",
+            "jantoḥ": "of beings",
+            "gatiḥ": "course",
+            "svena": "own",
+            "eva": "indeed",
+            "karmaṇā": "action",
+            "rājan": "king",
+            "tataḥ": "therefore",
+            "anyaḥ": "other",
+            "na": "not",
+            "asti": "is",
+            "asya": "of this",
+            "pradātā": "bestower",
+            "sukha": "happiness",
+            "-duḥkhayoḥ": "and sorrow",
+            "Life": "course of beings' own action indeed king therefore there is no other bestower of this happiness and sorrow"
+        },
+        "meaning": ""
+    }
+}

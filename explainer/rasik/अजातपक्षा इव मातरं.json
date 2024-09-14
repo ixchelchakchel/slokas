@@ -1,0 +1,78 @@
+{
+  "verse_no": "६-११-२६",
+  "verse": "अजातपक्षा इव मातरं खगाः स्तन्यं यथा वत्सतराः क्षुधार्ताः । प्रियं प्रियेव व्युषितं विषण्णा मनोऽरविंदाक्ष दिदृक्षते त्वाम् ॥",
+  "vedabase": {
+    "terms": {
+      "ajāta-pakṣāḥ": "who have not yet grown wings",
+      "iva": "like",
+      "mātaram": "the mother",
+      "khagāḥ": "small birds",
+      "stanyam": "the milk from the udder",
+      "yathā": "just as",
+      "vatsatarāḥ": "the young calves",
+      "kṣudh-ārtāḥ": "distressed by hunger",
+      "priyam": "the beloved or husband",
+      "priyā": "the wife or lover",
+      "iva": "like",
+      "vyuṣitam": "who is away from home",
+      "viṣaṇṇā": "morose",
+      "manaḥ": "my mind",
+      "aravinda-akṣa": "O lotus-eyed one",
+      "didṛkṣate": "wants to see",
+      "tvām": "You"
+    },
+    "meaning": "O lotus-eyed Lord, as baby birds that have not yet developed their wings always look for their mother to return and feed them, as small calves tied with ropes await anxiously the time of milking, when they will be allowed to drink the milk of their mothers, or as a morose wife whose husband is away from home always longs for him to return and satisfy her in all respects, I always yearn for the opportunity to render direct service unto You."
+  },
+
+  "gpt": {
+    "terms": {
+      "अजातपक्षा": {
+        "अजा": "goat",
+        "तपक्षा": "winged"
+      },
+      "इव": "like",
+      "मातरं": "mother",
+      "खगाः": "birds",
+      "स्तन्यं": "milk",
+      "यथा": "just as",
+      "वत्सतराः": {
+        "वत्स": "calf",
+        "तराः": "dependent"
+      },
+      "क्षुधार्ताः": {
+        "क्षुधा": "hunger",
+        "आर्ताः": "afflicted"
+      },
+      "प्रियं": "dear",
+      "प्रियेव": "as if dear",
+      "व्युषितं": "spread",
+      "विषण्णा": "distressed",
+      "मनोऽरविंदाक्ष": {
+        "मनस्": "mind",
+        "अरविंद": "lotus",
+        "अक्ष": "eyes"
+      },
+      "दिदृक्षते": "seeks"
+    },
+    "meaning": "Like winged goats seeking milk from their mother just as dependent calves, afflicted by hunger, seek dear milk; distressed as if dear, the mind, with lotus-like eyes, seeks You."
+  },
+  "bard": {
+    "अजातपक्षाः": "without wings",
+    "इव": "like",
+    "मातरम्": "mother",
+    "खगाः": "birds",
+    "स्तन्यं": "milk",
+    "यथा": "as",
+    "वत्सतराः": "calves",
+    "क्षुधार्ताः": "hungry",
+    "प्रियं": "beloved",
+    "प्रियेव": "like a lover",
+    "व्युषितं": "longing",
+    "विषण्णा": "sorrowful",
+    "मनोऽरविंदाक्ष": "lotus-eyed one",
+    "दिदृक्षते": "desires to see",
+    "त्वाम्": "you"
+  }
+
+
+}

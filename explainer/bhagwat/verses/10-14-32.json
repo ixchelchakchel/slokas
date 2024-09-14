@@ -1,0 +1,43 @@
+{
+    "verse_no": "१०-१४-३२",
+    "verse": "अहो भाग्यमहो भाग्यं नन्दगोपव्रजौकसाम् ।\nयन्मित्रं परमानन्दं पूर्णं ब्रह्म सनातनम् ॥",
+    "vedabase": {
+        "terms": {
+            "aho": "what great",
+            "bhāgyam": "fortune",
+            "nanda": "of Mahārāja Nanda",
+            "gopa": "of the other cowherd men",
+            "vraja-okasām": "of the inhabitants of Vrajabhūmi",
+            "yat": "of whom",
+            "mitram": "the friend",
+            "parama-ānandam": "the supreme bliss",
+            "pūrṇam": "complete",
+            "brahma": "the Absolute Truth",
+            "sanātanam": "eternal."
+        },
+        "translation": "How greatly fortunate are Nanda Mahārāja, the cowherd men and all the other inhabitants of Vrajabhūmi! There is no limit to their good fortune, because the Absolute Truth, the source of transcendental bliss, the eternal Supreme Brahman, has become their friend.  ",
+        "purport": "This translation is quoted from Śrīla Prabhupāda’s Caitanya-caritāmṛta, Madhya-līlā, Chapter Six, text 149."
+    },
+    "gpt": {
+        "terms": {
+            "अहो (aho)": "Oh!",
+            "भाग्यम् (bhāgyam)": "fortune, luck",
+            "महो (maho)": "great, grand",
+            "भाग्यं (bhāgyam)": "fortune, luck",
+            "नन्दगोपव्रजौकसाम् (nandagopavraja": "ukasām) - among the cowherd residents of Nanda and Gopa villages",
+            "यन्मित्रं (yanmitram)": "that friend",
+            "परमानन्दं (paramānandam)": "supreme bliss",
+            "पूर्णं (pūrṇam)": "complete, full",
+            "ब्रह्म (brahma)": "divine consciousness",
+            "सनातनम् (sanātanam)": "eternal"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "aho bhāgyam nanda gopa vraja-okasām": "alas! what a fortune for nanda gopa and the inhabitants of vraja",
+            "yat mitram parama-ānandam pūrṇam brahma sanātanam": "that kṛṣṇa is their friend, the supreme bliss, full of brahman, eternal"
+        },
+        "meaning": "alas! what a fortune for nanda gopa and the inhabitants of vraja that kṛṣṇa is their friend, the supreme bliss, full of brahman, eternal"
+    }
+}

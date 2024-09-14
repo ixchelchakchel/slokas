@@ -1,0 +1,69 @@
+{
+    "verse_no": "३-५-२",
+    "verse": "सुखाय कर्माणि करोति लोको न तैः सुखं वान्यदुपारमं वा ।\nविन्देत भूयस्तत एव दुःखं यदत्र युक्तं भगवान् वदेन्नः ॥",
+    "vedabase": {
+        "terms": {
+            "viduraḥ uvāca": "Vidura said",
+            "sukhāya": "for attaining happiness",
+            "karmāṇi": "fruitive activities",
+            "karoti": "everyone does so",
+            "lokaḥ": "in this world",
+            "na": "never",
+            "taiḥ": "by those activities",
+            "sukham": "any happiness",
+            "vā": "either",
+            "anyat": "differently",
+            "upāramam": "satiation",
+            "vindeta": "achieves",
+            "bhūyaḥ": "on the contrary",
+            "tataḥ": "by such activities",
+            "eva": "certainly",
+            "duḥkham": "miseries",
+            "yat": "that which",
+            "atra": "under the circumstances",
+            "yuktam": "right course",
+            "bhagavān": "O great one",
+            "vadet": "may kindly enlighten",
+            "naḥ": "us."
+        },
+        "translation": "Vidura said: O great sage, everyone in this world engages in fruitive activities to attain happiness, but one finds neither satiation nor the mitigation of distress. On the contrary, one is only aggravated by such activities. Please, therefore, give us directions on how one should live for real happiness.  ",
+        "purport": "Vidura asked Maitreya some common questions, which was not originally his intention. Uddhava asked Vidura to approach Maitreya Muni and inquire into all the truths concerning the Lord — His name, fame, qualities, form, pastimes, entourage, etc. — and thus when Vidura approached Maitreya, he should have asked only about the Lord. But out of natural humility he did not immediately ask about the Lord, but inquired into a subject which would be of great importance to the common man. A common man cannot understand the Lord. He must first know the real position of his life under the influence of the illusory energy. In illusion one thinks that he can be happy only by fruitive activities, but what actually happens is that one becomes more and more entangled in the network of action and reaction and does not find any solution to the problem of life. There is a nice song in this connection: “Because of a great desire to have all happiness in life, I built this house. But unfortunately the whole scheme has turned to ashes because the house was unexpectedly set on fire.” The law of nature is like that. Everyone tries to become happy by planning in the material world, but the law of nature is so cruel that it sets fire to one’s schemes; the fruitive worker is not happy in his schemes, nor is there any satiation of his continuous hankering for happiness."
+    },
+    "gpt": {
+        "terms": {
+            "सुखाय कर्माणि करोति लोको": "The world engages in actions for happiness",
+            "न तैः सुखं वान्यदुपारमं वा": "But happiness does not come from those actions or anything else",
+            "विन्देत भूयस्तत एव दुःखं": "Instead, one only finds more suffering",
+            "यदत्र युक्तं भगवान् वदेन्नः": "The wise Lord tells us that happiness is found elsewhere"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "vidurah": "vidura     = wise",
+            "uvāca": "ūcat       = said",
+            "sukhāya": "sukha     = happiness",
+            "karmāṇi": "karman    = work/actions",
+            "karoti": "karoti    = does/performs",
+            "lokaḥ": "loka      = world",
+            "na": "na          = not",
+            "taiḥ": "taiḥ        = by them",
+            "sukham": "sukha     = happiness",
+            "vā": "vā          = or",
+            "anyat": "anyat      = anything",
+            "upāramam": "upāramam = satisfaction/completeness",
+            "vindeta": "vindeta   = attain",
+            "bhūyaḥ": "bhūyaḥ    = more",
+            "tataḥ": "tataḥ      = from that",
+            "eva": "eva         = indeed",
+            "duḥkham": "duḥkham  = unhappiness",
+            "yat": "yat          = that",
+            "atra": "atra        = here/this",
+            "yuktam": "yuktam     = appropriate",
+            "bhagavān": "bhagavān  = lord",
+            "vadet": "vadet      = say",
+            "naḥ": "naḥ          = to us"
+        },
+        "meaning": "vidura said: world does works for happinessnot by them happiness or anythingcompleteness attain morefrom that indeed unhappinessthat here appropriate lord say to usoverall meaning:vidura said: the world performs actions for happiness, but does not attain happiness or anything else, completeness, more. from that indeed comes unhappiness. lord, tell us what is appropriate here."
+    }
+}

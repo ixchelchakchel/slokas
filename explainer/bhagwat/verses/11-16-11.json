@@ -1,0 +1,45 @@
+{
+    "verse_no": "११-१६-११",
+    "verse": "गुणिनामप्यहं सूत्रं महतां च महानहम् ।\nसूक्ष्माणामप्यहं जीवो दुर्जयानामहं मनः ॥",
+    "vedabase": {
+        "terms": {
+            "guṇinām": "among things possessing qualities",
+            "api": "indeed",
+            "aham": "I am",
+            "sūtram": "the primary sūtra-tattva",
+            "mahatām": "among great things",
+            "ca": "also",
+            "mahān": "the total material manifestation",
+            "sūkṣmāṇām": "among subtle things",
+            "jīvaḥ": "the spirit soul",
+            "durjayānām": "among things difficult to conquer",
+            "manaḥ": "the mind."
+        },
+        "translation": "Among things possessing qualities I am the primary manifestation of nature, and among great things I am the total material creation. Among subtle things I am the spirit soul, and of things that are difficult to conquer I am the mind."
+    },
+    "gpt": {
+        "terms": {
+            "गुणिनामपि अहं सूत्रं": "I am the thread of all beings",
+            "महतां च महानहम्": "I am the great in the great",
+            "सूक्ष्माणामपि अहं जीवो": "I am the subtle life force in the subtle beings",
+            "दुर्जयानामहं मनः": "I am the indomitable mind of conquerors"
+        },
+        "meaning": " Overall, this verse highlights the all pervading nature of the divine and its presence in all aspects of creation. It emphasizes the divinity in everything and everyone, regardless of their stature or level of consciousness."
+    },
+    "bard": {
+        "terms": {
+            "guṇinām": "` of qualities`",
+            "api": "`also`",
+            "aham": "` I`",
+            "sūtram": "`thread`",
+            "mahatām": "`great`",
+            "ca": "`and`",
+            "mahān": "`great`",
+            "sūkṣmāṇām": "`subtle`",
+            "jīvaḥ": "`life`",
+            "durjayānām": "`difficult to conquer`",
+            "manaḥ": "`mind`"
+        },
+        "meaning": "of qualities also I thread great and great subtle life difficult to conquer mindI am the thread of all qualities, the greatest of the great, the life of the subtle, the mind of the difficult to conquer."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "verse_no": "१०-३३-३२",
+    "verse": "ईश्वराणां वचः सत्यं तथैवाचरितं क्‍वचित् ।\nतेषां यत् स्ववचोयुक्तं बुद्धिमांस्तत् समाचरेत् ॥",
+     "ref": [
+        "रास पंचध्यायी २१५"
+    ],
+    "meaning": "जो समर्थ लोग हैं उनके उपदेश को मानना चाहिए वो जो कर रहे हैं वो नहीं करना चाहिए",
+    "vedabase": {
+        "terms": {
+            "kuśala": "pious",
+            "ācaritena": "by activity",
+            "eṣām": "for them",
+            "iha": "in this world",
+            "sva-arthaḥ": "selfish benefit",
+            "na vidyate": "does not accrue",
+            "viparyayeṇa": "by the opposite",
+            "vā": "or",
+            "anarthaḥ": "undesirable reactions",
+            "nirahaṅkāriṇām": "who are free from false ego",
+            "prabho": "my dear sir."
+        },
+        "translation": "My dear Prabhu, when these great persons who are free from false ego act piously in this world, they have no selfish motives to fulfill, and even when they act in apparent contradiction to the laws of piety, they are not subject to sinful reactions."
+    },
+    "gpt": {
+        "terms": {
+            "ईश्वराणाम्": "Of the divine beings",
+            "वचः सत्यं": "the words are true",
+            "तथैव आचरितं क्वचित्": "and their behavior is consistent",
+            "तेषां": "of them (the divine beings)",
+            "यत्": "that which",
+            "स्ववचः युक्तं": "is in accordance with their words",
+            "बुद्धिमान् तत् समाचरेत्": "a wise person should conduct themselves in that manner"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "kuśala ācaritena": "by acting virtuously",
+            "eṣām": "they",
+            "iha": "here",
+            "sva-arthaḥ": "self-interest",
+            "na vidyate": "is not attained",
+            "viparyayeṇa vā": "or contrary to that",
+            "anarthaḥ": "harm",
+            "nirahaṅkāriṇām": "of the non-egoists",
+            "prabho": "O Lord"
+        },
+        "meaning": "By acting virtuously, they do not attain self-interest or harm here, O Lord, of the non-egoists"
+    }
+}

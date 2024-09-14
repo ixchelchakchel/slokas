@@ -1,0 +1,46 @@
+{
+    "verse_no": "११-१४-९",
+    "verse": "मन्मायामोहितधियः पुरुषाः पुरुषर्षभ ।\nश्रेयो वदन्त्यनेकान्तं यथाकर्म यथारुचि ॥",
+    "vedabase": {
+        "terms": {
+            "mat-māyā": "by My illusory potency",
+            "mohita": "bewildered",
+            "dhiyaḥ": "those whose intelligence",
+            "puruṣāḥ": "people",
+            "puruṣa-ṛṣabha": "O best among men",
+            "śreyaḥ": "what is good for people",
+            "vadanti": "they speak",
+            "aneka-antam": "in innumerable ways",
+            "yathā-karma": "according to their own activities",
+            "yathā-ruci": "according to what pleases them."
+        },
+        "translation": "O best among men, the intelligence of human beings is bewildered by My illusory potency, and thus, according to their own activities and whims, they speak in innumerable ways about what is actually good for people.  ",
+        "purport": "Unlike the Supreme Personality of Godhead, the individual living entity is not omniscient, therefore his activities and pleasures do not represent the whole truth. According to one’s individual way of doing things (yathā-karma) and one’s personal preference (yathā-ruci), one speaks to others about what is good for them. Everyone thinks, “What is good for me is good for everyone.” Actually, the best thing for everyone is to surrender to the Supreme Personality of Godhead, Lord Kṛṣṇa, and thus realize one’s eternal nature of bliss and knowledge. Without knowledge of the Absolute Truth, many so-called learned people are whimsically advising other whimsical people who also lack perfect knowledge of the actual goal of life."
+    },
+    "gpt": {
+        "terms": {
+            "मन्मायामोहितधियः": "Those individuals whose intellects (धियः) are deluded (मोहित) by my (मन्माया) illusory potency (माया), O best among men (पुरुषर्षभ).",
+            "पुरुषाः": "O persons (पुरुषाः).",
+            "श्रेयो वदन्ति": "They speak (वदन्ति) about the path of supreme benefit (श्रेयः)...",
+            "अनेकान्तं": "...in various ways (अनेकान्तं).",
+            "यथाकर्म यथारुचि": "...according to their own actions (कर्म) and inclinations (रुचि)."
+        },
+        "meaning": " In this verse, Lord Krishna is addressing Arjuna as \"purusharshabha\" which means the best among men. He refers to individuals whose intellects have been deluded by his illusory potency, called Maya. The delusion caused by Maya leads people to have different perspectives and opinions regarding the ultimate path to salvation or self realization. The verse emphasizes that there are different paths to attain self realization or ultimate benefit, and each person may have a unique perspective according to their own journey and understanding. It highlights the diversity of spiritual experiences and the importance of individual paths in the overall spiritual journey."
+    },
+    "bard": {
+        "terms": {
+            "mat": "`my`",
+            "māyā": "`illusion`",
+            "mohita": "`deceived`",
+            "dhiyaḥ": "`intellect`",
+            "puruṣāḥ": "`men`",
+            "puruṣa-ṛṣabha": "`great sage`",
+            "śreyaḥ": "`goodness`",
+            "vadanti": "`speak`",
+            "aneka-antam": "`multifarious`",
+            "yathā-karma": "`according to actions`",
+            "yathā-ruci": "`according to likes`"
+        },
+        "meaning": "My illusion deceives the intellects of men, great sage. They speak of the multifarious good according to their actions and likes."
+    }
+}

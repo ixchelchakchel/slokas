@@ -1,0 +1,43 @@
+{
+    "verse_no": "११-२३-४३",
+    "verse": "नायं जनो मे सुखदुःखहेतुर्न देवतात्मा ग्रहकर्मकालाः ।\nमनः परं कारणमामनन्ति संसारचक्रं परिवर्तयेद् यत् ॥\n",
+    "vedabase": {
+        "terms": {
+            "dvijaḥ uvāca": "the brāhmaṇa said",
+            "na": "not",
+            "ayam": "these",
+            "janaḥ": "people",
+            "me": "my",
+            "sukha": "of happiness",
+            "duḥkha": "and distress",
+            "hetuḥ": "the cause",
+            "devatā": "demigods",
+            "ātmā": "my own body",
+            "graha": "controlling planets",
+            "karma": "past work",
+            "kālāḥ": "time",
+            "manaḥ": "mind",
+            "param": "rather only",
+            "kāraṇaṁ": "the cause",
+            "āmananti": "is called by standard authorities",
+            "saṁsāra": "material life",
+            "cakram": "cycle",
+            "parivartayet": "causes to rotate",
+            "yat": "which"
+        },
+        "translation": "The brāhmaṇa said: These people are not the cause of my happiness and distress. Neither are the demigods, my own body, the planets, my past work, or time. Rather, it is the mind alone that causes happiness and distress and perpetuates the rotation of material life."
+    },
+    "gpt": {
+        "terms": {
+            "नायं जनो मे सुखदुःखहेतुः": "This individual is not the cause of my happiness or sorrow.",
+            "न देवतात्मा ग्रहकर्मकालाः": "Neither are the celestial beings, the soul, planetary movements or time.",
+            "मनः परं कारणम् आमनन्ति": "It is the mind that is the ultimate cause.",
+            "संसारचक्रं परिवर्तयेद् यत्": "Therefore, one should strive to change the cycle of worldly existence."
+        },
+        "meaning": " These verses convey the idea that external factors such as people, celestial beings, destiny or time are not the root causes of our happiness or sorrow. The ultimate cause lies within our own minds. By recognizing this, one can free themselves from the cycle of worldly existence and strive to bring about positive changes in their life. These verses emphasize the importance of self awareness and taking responsibility for one's own thoughts and actions."
+    },
+    "bard": {
+        "terms": {},
+        "meaning": "manaḥ `mind`guṇān `qualities`vai `indeed`sṛjate `produces`balīyaḥ `stronger`tataḥ `from there`ca `and`karmāṇi `actions`vilakṣaṇāni `differentiating`śuklāni `white`kṛṣṇāni `black`atha `then`lohitāni `red`tebhyaḥ `from those`sa-varṇāḥ `same-colored`sṛtayaḥ `castes`bhavanti `are produced`Meaning: The mind produces stronger qualities; from those qualities come differentiating actions; from those actions come white, black, and red castes."
+    }
+}

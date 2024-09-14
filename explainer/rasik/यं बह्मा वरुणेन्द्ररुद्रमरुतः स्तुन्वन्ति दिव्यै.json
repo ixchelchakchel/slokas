@@ -1,0 +1,47 @@
+{
+  "verse": "यं बह्मा वरुणेन्द्ररुद्रमरुतः स्तुन्वन्ति दिव्यैः स्तवैर्वेदैः साङ्गपदक्रमोपनिषदैर्गायन्ति यं सामगाः । ध्यानावस्थिततद्गतेन मनसा पश्यन्ति यं योगिनो यस्यान्तं न विदुः सुरासुरगणा देवाय तस्मै नमः ॥",
+  "words": {
+    "यं": "whom",
+    "ब्रह्मा": "Brahma",
+    "वरुणेन्द्ररुद्रमरुतः": {
+      "वरुण": "Varuna",
+      "इन्द्र": "Indra",
+      "रुद्र": "Rudra",
+      "मरुतः": "and the Maruts"
+    },
+    "स्तुन्वन्ति": "praise",
+    "दिव्यैः": "divine",
+    "स्तवैः": "hymns",
+    "वेदैः": "Vedas",
+    "साङ्ग": "with the limbs (auxiliary parts)",
+    "पदक्रम": "word order",
+    "उपनिषदैः": "Upanishads",
+    "गायन्ति": "sing",
+    "यं": "whom",
+    "सामगाः": "singers of the Sama Veda",
+    "ध्यानावस्थिततद्गतेन": {
+      "ध्यान": "meditation",
+      "आवस्थित": "absorbed",
+      "तद्गतेन": "with their mind fixed on him"
+    },
+    "मनसा": "by the mind",
+    "पश्यन्ति": "see",
+    "यं": "whom",
+    "योगिनः": "yogis",
+    "यस्यान्तं": {
+      "यस्य": "whose",
+      "अन्तं": "end"
+    },
+    "न": "not",
+    "विदुः": "know",
+    "सुरासुरगणा": {
+      "सुर": "gods",
+      "असुर": "demons",
+      "गणा": "hosts"
+    },
+    "देवाय": "to the god",
+    "तस्मै": "to him",
+    "नमः": "salutation"
+  },
+  "overall_meaning": "Salutation to that God whom Brahma, Varuna, Indra, Rudra, and the Maruts praise with divine hymns; whom the singers of the Sama Veda sing about with the Vedas and the supplementary texts in the correct order and the Upanishads; whom the yogis see with their minds absorbed in meditation; and whose end neither the gods nor the demons know."
+}

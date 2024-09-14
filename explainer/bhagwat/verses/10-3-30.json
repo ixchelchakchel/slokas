@@ -1,0 +1,43 @@
+{
+    "verse_no": "१०-३-३०",
+    "verse": "उपसंहर विश्वात्मन्नदो रूपमलौकिकम् ।\nशङ्खचक्रगदापद्मश्रिया जुष्टं चतुर्भुजम् ॥",
+    "vedabase": {
+        "terms": {
+            "upasaṁhara": "withdraw",
+            "viśvātman": "O all-pervading Supreme Personality of Godhead",
+            "adaḥ": "that",
+            "rūpam": "form",
+            "alaukikam": "which is unnatural in this world",
+            "śaṅkha-cakra-gadā-padma": "of the conchshell, disc, club and lotus",
+            "śriyā": "with these opulences",
+            "juṣṭam": "decorated",
+            "catuḥ-bhujam": "four hands."
+        },
+        "translation": "O my Lord, You are the all-pervading Supreme Personality of Godhead, and Your transcendental four-armed form, holding conchshell, disc, club and lotus, is unnatural for this world. Please withdraw this form [and become just like a natural human child so that I may try to hide You somewhere].  ",
+        "purport": "Devakī was thinking of hiding the Supreme Personality of Godhead and not handing Him over to Kaṁsa as she had all her previous children. Although Vasudeva had promised to hand over every child to Kaṁsa, this time he wanted to break his promise and hide the child somewhere. But because of the Lord’s appearance in this surprising four-armed form, He would be impossible to hide."
+    },
+    "gpt": {
+        "terms": {
+            "चतुर्भुजम्: Four": "armed"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "upasaṁhara": "to withdraw",
+            "viśvātman": "the universe",
+            "adaḥ": "that",
+            "rūpam": "form",
+            "alaukikam": "transcendental",
+            "śaṅkha": "conch",
+            "cakra": "discus",
+            "gadā": "mace",
+            "padma": "lotus",
+            "śriyā": "with beauty",
+            "juṣṭam": "adorned",
+            "catuḥ": "four",
+            "bhujam": "arms"
+        },
+        "meaning": "to withdraw the universe, that transcendental form, adorned with conch, discus, mace and lotus with four arms"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "verse_no": "३-२९-३१",
+    "verse": "ततो वर्णाश्च चत्वारस्तेषां ब्राह्मण उत्तम: ।\nब्राह्मणेष्वपि वेदज्ञो ह्यर्थज्ञोऽभ्यधिकस्तत: ॥ ",
+    "vedabase": {
+        "terms": {
+            "tataḥ": "than him.",
+            "varṇāḥ": "classes",
+            "ca": "and",
+            "catvāraḥ": "four",
+            "teṣām": "of them",
+            "brāhmaṇaḥ": "a brāhmaṇa",
+            "uttamaḥ": "best",
+            "brāhmaṇeṣu": "among the brāhmaṇas",
+            "api": "moreover",
+            "veda": "the Vedas",
+            "jñaḥ": "one who knows",
+            "hi": "certainly",
+            "artha": "the purpose",
+            "abhyadhikaḥ": "better"
+        },
+        "translation": "Among human beings, the society which is divided according to quality and work is best, and in that society, the intelligent men, who are designated as brāhmaṇas, are best. Among the brāhmaṇas, one who has studied the Vedas is the best, and among the brāhmaṇas who have studied the Vedas, one who knows the actual purport of Veda is the best.  ",
+        "purport": "The system of four classifications in human society according to quality and work is very scientific. This system of brāhmaṇas, kṣatriyas, vaiśyas and śūdras has now become vitiated as the present caste system in India, but it appears that this system has been current a very long time, since it is mentioned in Śrīmad-Bhāgavatam and Bhagavad-gītā. Unless there is such a division of the social orders in human society, including the intelligent class, the martial class, the mercantile class and the laborer class, there is always confusion as to who is to work for what purpose. A person trained to the stage of understanding the Absolute Truth is a brāhmaṇa, and when such a brāhmaṇa is veda jña, he understands the purpose of Veda. The purpose of Veda is to understand the Absolute. One who understands the Absolute Truth in three phases, namely Brahman, Paramātmā and Bhagavān, and who understands the term Bhagavān to mean the Supreme Personality of Godhead, is considered to be the best of the brāhmaṇas, or a Vaiṣṇava."
+    },
+    "gpt": {
+        "terms": {
+            "ततो वर्णाः चत्वारः": "tato varṇāścaturas teṣāṁ",
+            "This means, \"thereafter, there are four varṇas (castes)\". It refers to the division of society into four categories based on occupation": "the Brahmins, Kshatriyas, Vaishyas, and Shudras.",
+            "तेषाम् ब्राह्मणः उत्तमः": "teṣām brāhmaṇaḥ uttamaḥ",
+            "ब्राह्मणेषु अपि वेदज्ञः": "brāhmaṇeṣhu api vedajñaḥ",
+            "हि अर्थज्ञः अभ्यधिकः ततः": "hi arthajñaḥ abhyadhikaḥ tataḥ"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "tataḥ": "` then`",
+            "varṇāḥ": "` castes`",
+            "ca": "` and`",
+            "catvāraḥ": "` four`",
+            "teṣām": "` among them`",
+            "brāhmaṇaḥ": "` brāhmaṇa`",
+            "uttamaḥ": "` superior`",
+            "brāhmaṇeṣu": "` among brāhmaṇas`",
+            "api": "` also`",
+            "veda": "` vedas`",
+            "jñaḥ": "` knower`",
+            "hi": "` indeed`",
+            "artha": "` wealth`",
+            "abhyadhikaḥ": "` greater`"
+        },
+        "meaning": "Then there are four castes, of them the brāhmaṇa is superior, and among brāhmaṇas also the knower of the Vedas is greater in wealth."
+    }
+}

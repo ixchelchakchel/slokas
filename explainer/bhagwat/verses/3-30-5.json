@@ -1,0 +1,50 @@
+{
+    "verse_no": "३-३०-५",
+    "verse": "नरकस्थोऽपि देहं वै न पुमांस्त्यक्तुमिच्छति ।\nनारक्यां निर्वृतौ सत्यां देवमायाविमोहितः ॥",
+    "meaning": "नरक का देह भी जिसको मिल गया है और उससे कह दो की देह छोड़ दे उसका गला दबाओ इतना गन्दा देह हैं पखाने का कीड़ा है मैं मार देता हूँ न मारो मत मुझे जैसे मनुष्य को अपना शरीर प्यारा है ऐसे ही सबको उस शरीर में, अपने अपने शरीर में आसक्ति है कितना बड़ा आश्चर्य",
+    "vedabase": {
+        "terms": {
+            "naraka": "in hell",
+            "sthaḥ": "situated",
+            "api": "even",
+            "deham": "body",
+            "vai": "indeed",
+            "na": "not",
+            "pumān": "person",
+            "tyaktum": "to leave",
+            "icchati": "wishes",
+            "nārakyām": "hellish",
+            "nirvṛtau": "enjoyment",
+            "satyām": "when existing",
+            "deva-māyā": "by the illusory energy of Viṣṇu",
+            "vimohitaḥ": "deluded."
+        },
+        "translation": "The conditioned living entity is satisfied in his own particular species of life; while deluded by the covering influence of the illusory energy, he feels little inclined to cast off his body, even when in hell, for he takes delight in hellish enjoyment.  ",
+        "purport": "It is said that once Indra, the King of heaven, was cursed by his spiritual master, Bṛhaspati, on account of his misbehavior, and he became a hog on this planet. After many days, when Brahmā wanted to recall him to his heavenly kingdom, Indra, in the form of a hog, forgot everything of his royal position in the heavenly kingdom, and he refused to go back. This is the spell of māyā. Even Indra forgets his heavenly standard of life and is satisfied with the standard of a hog’s life. By the influence of māyā the conditioned soul becomes so affectionate towards his particular type of body that if he is offered, “Give up this body, and immediately you will have a king’s body,” he will not agree. This attachment strongly affects all conditioned living entities. Lord Kṛṣṇa is personally canvassing, “Give up everything in this material world. Come to Me, and I shall give you all protection,” but we are not agreeable. We think, “We are quite all right. Why should we surrender unto Kṛṣṇa and go back to His kingdom?” This is called illusion, or māyā. Everyone is satisfied with his standard of living, however abominable it may be."
+    },
+    "gpt": {
+        "terms": {
+            "नरकस्थः": "One situated in hell",
+            "अपि": "Even",
+            "देहं": "Body",
+            "वै": "Indeed",
+            "न": "Not",
+            "पुमांस्": "A man",
+            "त्यक्तुम् इच्छति": "Desires to give up",
+            "नारक्यां": "In hell",
+            "निर्वृतौ": "Liberation",
+            "सत्यां": "True",
+            "देवमायाविमोहितः": "Deluded by the illusory power of God"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "naraka sthaḥ api deham vai": "even if in hell, a person does not want to give up his body",
+            "na pumān tyaktum icchati": "a person does not want to give up",
+            "nārakyām nirvṛtau satyām": "in hell, though there is no enjoyment",
+            "deva-māyā vimohitaḥ": "he is deluded by the illusion of the gods"
+        },
+        "meaning": "even if in hell, a person does not want to give up his body, because in hell, though there is no enjoyment, he is deluded by the illusion of the gods"
+    }
+}

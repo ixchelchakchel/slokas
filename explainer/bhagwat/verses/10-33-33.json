@@ -1,0 +1,49 @@
+{
+    "verse_no": "१०-३३-३३",
+    "verse": "कुशलाचरितेनैषामिह स्वार्थो न विद्यते ।\nविपर्ययेण वानर्थो निरहङ्कारिणां विभो ॥",
+     "ref": [
+        "रास पंचध्यायी २१८"
+    ],
+    "vedabase": {
+        "terms": {
+            "kuśala": "pious",
+            "ācaritena": "by activity",
+            "eṣām": "for them",
+            "iha": "in this world",
+            "sva-arthaḥ": "selfish benefit",
+            "na": "does not",
+            "vidyate": "accrue",
+            "viparyayeṇa": "by the opposite",
+            "vā": "or",
+            "anarthaḥ": "undesirable reactions",
+            "nirahaṅkāriṇām": "who are free from false ego",
+            "prabho": "my dear sir"
+        },
+        "translation": "My dear Prabhu, when these great persons who are free from false ego act piously in this world, they have no selfish motives to fulfill, and even when they act in apparent contradiction to the laws of piety, they are not subject to sinful reactions. "
+    },
+    "gpt": {
+        "terms": {
+            "कुशलाचरितेन": "Through virtuous conduct",
+            "एषाम्": "of those",
+            "इह": "in this world",
+            "स्वार्थः": "self-interest",
+            "न विद्यते": "does not exist",
+            "विपर्ययेण": "through contrary actions",
+            "वानर्थः": "purposelessness",
+            "निरहङ्कारिणां": "of those devoid of ego",
+            "विभो": "O mighty one"
+        },
+        "meaning": " Meaning: O mighty one, for those who are devoid of ego and act virtuously, there is no self interest in this world. Their actions are not driven by personal gain. On the contrary, their actions are purposeful and free from any egoistic motivations."
+    },
+    "bard": {
+        "terms": {
+            "kim uta": "what indeed",
+            "akhila sattvānām": "all beings",
+            "tiryak martya diva-okasām": "earth, atmosphere, heaven",
+            "īśituḥ ca": "and also for the controller",
+            "īśitavyānām": "and for the controlled",
+            "kuśala akuśala anvayaḥ": "of good and bad actions"
+        },
+        "meaning": "what indeed are all the beings on earth, in the atmosphere and in heaven, and also for the controller and for the controlled, the relations of good and bad actions"
+    }
+}

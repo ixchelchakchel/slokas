@@ -1,0 +1,70 @@
+{
+    "verse_no": "१०-३३-१७",
+    "verse": "एवं परिष्वङ्गकराभिमर्शस्निग्धेक्षणोद्दामविलासहासै: ।\nरेमे रमेशो व्रजसुन्दरीभिर्यथार्भक: स्वप्रतिबिम्बविभ्रम: ॥",
+    "ref": [
+        "रास पंचध्यायी १५१"
+    ],
+    "vedabase": {
+        "terms": {
+            "tat": "with Him",
+            "aṅga-saṅga": "from the bodily contact",
+            "pramudā": "by the joy",
+            "ākula": "overflowing",
+            "indriyāḥ": "whose senses",
+            "keśān": "their hair",
+            "dukūlam": "dresses",
+            "kuca-paṭṭikām": "the garments covering their breasts",
+            "vā": "or",
+            "na": "not",
+            "añjaḥ": "easily",
+            "prativyoḍhum": "to keep properly arranged",
+            "alam": "capable",
+            "vraja-striyaḥ": "the women of Vraja",
+            "visrasta": "scattered",
+            "mālā": "their flower garlands",
+            "ābharaṇāḥ": "and ornaments",
+            "kuru-udvaha": "O most eminent member of the Kuru dynasty."
+        },
+        "translation": "Their senses overwhelmed by the joy of having His physical association, the gopīs could not prevent their hair, their dresses and the cloths covering their breasts from becoming disheveled. Their garlands and ornaments scattered, O hero of the Kuru dynasty."
+    },
+    "gpt": {
+        "terms": {
+            "एवं": "इस प्रकार",
+            "परिष्वङ्गकर": "परिष्वजने योग्य",
+            "स्पर्श करने वाला": "अभिमर्शस्निग्ध",
+            "प्रीतिपूर्वक मिलने वाला": "सर्वांगस्पर्शी",
+            "एक्षणोद्दामविलासहासै": "आंखें चमकने वाले हंसी के साथ",
+            "रेमे": "आनंदित रहता हूँ",
+            "आनंदित करना": "रमेश",
+            "परमेश्वर": "भगवान",
+            "व्रजसुन्दरीभिर्यथा": "वृंदावन की सुन्दरी गोपियों के",
+            "अर्भक": "सदैव",
+            "हमेशा": "स्वप्रतिबिम्बविभ्रम",
+            "अपने प्रतिबिम्ब को धोखा देने वाल": "विभ्रम",
+            "भ्रम": "Meaning:"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "tat": "that",
+            "aṅga-saṅga": "union of limbs",
+            "pramudā": "delight",
+            "ākula": "agitated",
+            "indriya": "sense organs",
+            "keśān": "hair",
+            "dukūlam": "plait",
+            "kuca-paṭṭikām": "breast band",
+            "vā": "or",
+            "na añjaḥ": "do not care",
+            "prativyoḍhum": "to throw away",
+            "alam": "it is easy",
+            "vraja-striyaḥ": "village girls",
+            "visrasta": "scattered",
+            "mālā": "garland",
+            "ābharaṇāḥ": "ornaments",
+            "kuru-udvaha": "kuru-bride"
+        },
+        "meaning": "that union of limbs delight agitated sense organs hair plait breast band or do not care to throw away it is easy village girls scattered garland ornaments kuru brideThat union of limbs delights the agitated sense organs, even the hair, the plait, or the breast band do not care to throw away. It is easy for village girls, scattered garlands and ornaments, to be the kuru bride."
+    }
+}

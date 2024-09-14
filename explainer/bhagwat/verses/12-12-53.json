@@ -1,0 +1,68 @@
+{
+    "verse_no": "१२-१२-५३",
+    "verse": "यशः श्रियामेव परिश्रमः परो वर्णाश्रमाचारतपः श्रुतादिषु ।\nअविस्मृतिः श्रीधरपादपद्मयोर्गुणानुवादश्रवणादरादिभिः ॥",
+    "ref": [
+        "रास पंचध्यायी १५६, १८०"
+    ],
+    "vedabase": {
+        "terms": {
+            "yaśaḥ": "in fame",
+            "śriyām": "and opulence",
+            "eva": "only",
+            "pariśramaḥ": "the labor",
+            "paraḥ": "great",
+            "varṇa-āśrama-ācāra": "by one’s execution of duties in the varṇāśrama system",
+            "tapaḥ": "austerities",
+            "śruta": "hearing of sacred scripture",
+            "ādiṣu": "and so on",
+            "avismṛtiḥ": "remembrance",
+            "śrīdhara": "of the maintainer of the goddess of fortune",
+            "pāda-padmayoḥ": "of the lotus feet",
+            "guṇa-anuvāda": "of the chanting of the qualities",
+            "śravaṇa": "by hearing",
+            "ādara": "respecting",
+            "ādibhiḥ": "and so on."
+        },
+        "translation": "The great endeavor one undergoes in executing the ordinary social and religious duties of the varṇāśrama system, in performing austerities, and in hearing from the Vedas culminates only in the achievement of mundane fame and opulence. But by respecting and attentively hearing the recitation of the transcendental qualities of the Supreme Lord, the husband of the goddess of fortune, one can remember His lotus feet."
+    },
+    "gpt": {
+        "terms": {
+            "यशः": "Fame, reputation",
+            "श्रिया": "Wealth, prosperity",
+            "अमेव": "Indeed, only",
+            "परिश्रमः": "Effort, hard work",
+            "परः": "Supreme, ultimate",
+            "वर्णाश्रमाचारतपः": "Practice of duties according to one's caste and stage of life",
+            "श्रुतादिषु": "In the scriptural texts and others",
+            "अविस्मृतिः": "Neglect, forgetfulness",
+            "श्रीधरपादपद्मयोः": "Of the lotus feet of Lord Shridhara (another name for Lord Vishnu)",
+            "गुणानुवादश्रवणादरादिभिः": "By hearing, reflecting and discussing about His qualities and deeds"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "yaśaḥ": "fame",
+            "śriyām": "in beauty",
+            "eva": "indeed",
+            "pariśramaḥ": "effort",
+            "paraḥ": "supreme",
+            "varṇa": "caste",
+            "āśrama": "stage of life",
+            "ācāra": "conduct",
+            "tapaḥ": "austerities",
+            "śruta": "learning",
+            "ādiṣu": "etc.",
+            "avismṛtiḥ": "non-forgetfulness",
+            "śrīdhara": "Śrīdhara",
+            "pāda": "feet",
+            "padmayoḥ": "lotus",
+            "guṇa": "qualities",
+            "anuvāda": "recitation",
+            "śravaṇa": "hearing",
+            "ādara": "respect",
+            "ādibhiḥ": "etc."
+        },
+        "meaning": "Effort for fame in beauty itself is supreme, along with non-forgetfulness ofcaste, stage of life, conduct, austerities, learning etc., and recitation,hearing, respect for the lotus feet of Śrīdhara, full of qualities."
+    }
+}

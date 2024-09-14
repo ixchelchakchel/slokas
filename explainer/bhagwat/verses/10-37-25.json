@@ -1,0 +1,54 @@
+{
+    "verse_no": "१०-३७-२५",
+    "verse": "एवं यदुपतिं कृष्णं भागवतप्रवरो मुनिः ।\nप्रणिपत्याभ्यनुज्ञातो ययौ तद्दर्शनोत्सवः ॥",
+    "vedabase": {
+        "terms": {
+            "bhagavān": "the Supreme Lord",
+            "api": "and",
+            "govindaḥ": "Govinda",
+            "hatvā": "having killed",
+            "keśinam": "the demon Keśī",
+            "āhave": "in battle",
+            "paśūn": "the animals",
+            "apālayat": "He tended",
+            "pālaiḥ": "together with the cowherd boys",
+            "prītaiḥ": "who were pleased",
+            "vraja": "to the inhabitants of Vṛndāvana",
+            "sukha": "happiness",
+            "āvahaḥ": "bringing."
+        },
+        "translation": "After killing the demon Keśī in battle, the Supreme Personality of Godhead continued to tend the cows and other animals in the company of His joyful cowherd boyfriends. Thus He brought happiness to all the residents of Vṛndāvana."
+    },
+    "gpt": {
+        "terms": {
+            "एवं": "thus",
+            "यदुपतिं": "the lord of the Yadus (Krishna)",
+            "कृष्णं": "to Krishna",
+            "भागवतप्रवरो": "the best among devotees of the Lord",
+            "मुनिः": "the sage",
+            "प्रणिपत्य": "after offering obeisances",
+            "अभ्यनुज्ञातो": "having received permission",
+            "ययौ": "went",
+            "तद्दर्शनोत्सवः": "to the festive occasion of seeing Him"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "bhagavān": "` god `",
+            "api": "` also `",
+            "govindaḥ": "` govinda `",
+            "hatvā": "` killing `",
+            "keśinam": "` keshi `",
+            "āhave": "` in war `",
+            "paśūn": "` cows `",
+            "apālayat": "` protected `",
+            "pālaiḥ": "` by the cowherds `",
+            "prītaiḥ": "` happily `",
+            "vraja": "` go back `",
+            "sukha": "` happily `",
+            "āvahaḥ": "` bring `"
+        },
+        "meaning": "god govinda also killing keshi in war cows protected by the cowherds happily go back happily bringgod govinda also killed keshi in war and protected the cows happily, so go back happily"
+    }
+}

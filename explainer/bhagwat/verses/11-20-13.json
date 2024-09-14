@@ -1,0 +1,60 @@
+{
+    "verse_no": "११-२०-१३",
+    "verse": "न नरः स्वर्गतिं काङ्‍क्षेन्नारकीं वा विचक्षणः ।\nनेमं लोकं च काङ्‍क्षेत देहावेशात् प्रमाद्यति ॥",
+    "vedabase": {
+        "terms": {
+            "na": "nor",
+            "naraḥ": "a human being",
+            "svaḥ-gatim": "promotion to heaven",
+            "kāṅkṣet": "should desire",
+            "nārakīm": "to hell",
+            "vā": "or",
+            "vicakṣaṇaḥ": "a learned person",
+            "imam": "this",
+            "lokam": "earth planet",
+            "ca": "also",
+            "kāṅkṣeta": "one should desire",
+            "deha": "in the material body",
+            "āveśāt": "from absorption",
+            "pramādyati": "one becomes a fool."
+        },
+        "translation": "A human being who is wise should never desire promotion to heavenly planets or residence in hell. Indeed, a human being should also never desire permanent residence on the earth, for by such absorption in the material body one becomes foolishly negligent of one’s actual self-interest.  ",
+        "purport": "One who has achieved human life on the earth has an excellent opportunity to attain spiritual liberation through Kṛṣṇa consciousness, or devotional service to the Lord. Thus one should not desire promotion to heaven or risk residence in hell, where excessive enjoyment or punishment deviate one’s mind from self-realization. On the other hand, one should not think, “The earth is so nice, I can stay here forever.” One should develop thorough detachment from all aspects and categories of material existence and go back home, back to Godhead, where life is eternal and full of bliss and knowledge. Lord Kṛṣṇa now begins to develop His conclusive proof that actual human progress lies beyond material piety and sin. The Lord first clarified that there are basically three methods of human elevation, namely jñāna, karma and bhakti, and that the goal is transcendental knowledge and ultimately love of Godhead. Now the Lord explains that promotion to heavenly planets (the final goal of piety) as well as residence in hell (the result of sinful activities) are both useless in fulfilling the actual purpose of life. Neither material piety nor sin establish the eternal living entity in his constitutional position; therefore something more is required to achieve the actual perfection of life."
+    },
+    "gpt": {
+        "terms": {
+            "न": "No",
+            "नरः": "Man",
+            "स्वर्गतिं": "Heavenly progression",
+            "काङ्‍क्षेत": "Should desire",
+            "नारकीं": "Hell",
+            "वा": "Or",
+            "विचक्षणः": "Wise man",
+            "इमं": "This",
+            "लोकं": "World",
+            "च": "And",
+            "देहावेशात्": "Due to body attachment",
+            "प्रमाद्यति": "Becomes bewildered"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "na": "not",
+            "naraḥ": "man",
+            "svaḥ-gatim": "going to his own abode",
+            "kāṅkṣet": "wish",
+            "nārakīm": "hell",
+            "vā": "or",
+            "vicakṣaṇaḥ": "intelligent",
+            "imam": "this",
+            "lokam": "world",
+            "ca": "and",
+            "kāṅkṣeta": "wish",
+            "deha": "body",
+            "āveśāt": "from being attached",
+            "pramādyati": "fall into negligence"
+        },
+        "meaning": "A man who is intelligent should not wish to go to his own abode or to hell or to this world; from being attached to the body he falls into negligence."
+    }
+}

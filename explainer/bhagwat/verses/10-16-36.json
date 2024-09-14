@@ -1,0 +1,85 @@
+{
+    "verse_no": "१०-१६-३६",
+    "verse": "कस्यानुभावोऽस्य न देव विद्महे तवाङ्‍‍‍‍‍घ्रिरेणुस्परशाधिकार: ।\nयद्वाञ्छया श्रीर्ललनाचरत्तपो विहाय कामान् सुचिरं धृतव्रता ॥",
+    "vedabase": {
+        "terms": {
+            "kasya": "of what",
+            "anubhāvaḥ": "a result",
+            "asya": "of the serpent (Kāliya)",
+            "na": "not",
+            "deva": "my Lord",
+            "vidmahe": "we know",
+            "tava": "Your",
+            "aṅghri": "of the lotus feet",
+            "reṇu": "of the dust",
+            "sparaśa": "for touching",
+            "adhikāraḥ": "qualification",
+            "yat": "for which",
+            "vāñchayā": "with the desire",
+            "śrīḥ": "the goddess of fortune",
+            "lalanā": "(the topmost) woman",
+            "ācarat": "performed",
+            "tapaḥ": "austerity",
+            "vihāya": "giving up",
+            "kāmān": "all desires",
+            "su-ciram": "for a long time",
+            "dhṛta": "upheld",
+            "vratā": "her vow."
+        },
+        "translation": "O Lord, we do not know how the serpent Kāliya has attained this great opportunity of being touched by the dust of Your lotus feet. For this end, the goddess of fortune performed austerities for centuries, giving up all other desires and observing austere vows."
+    },
+    "gpt": {
+        "terms": {
+            "कस्य": "Whose",
+            "अनुभावः": "experience or influence",
+            "अस्य": "of this",
+            "न": "not",
+            "देव": "O divine one",
+            "विद्महे": "we know",
+            "तव": "your",
+            "अङ्घ्रि": "feet",
+            "इरेणु": "dust",
+            "स्परशा": "by the touch",
+            "अधिकारः": "authority or control",
+            "यत्": "that which",
+            "वाञ्छया": "by the desire",
+            "श्रीः": "wealth or prosperity",
+            "ललना": "moving or playing",
+            "आचरत्": "conducts",
+            "तपः": "penance",
+            "विहाय": "giving up",
+            "कामान्": "desires",
+            "सुचिरं": "for a long time",
+            "धृतव्रता": "steadfastly devoted"
+        },
+        "meaning": "O divine one, we do not know whose experience or influence this is, but your feet have the authority over the dust by their touch. That which wealth desires, moving and playing, is conductive to penance, giving up desires for a long time, and steadfastly devoted."
+    }
+,
+    "bard": {
+        "terms": {
+            "kasya": "`whose`",
+            "anubhāvaḥ": "`power`",
+            "asya": "`of this`",
+            "na": "`not`",
+            "deva": "`god`",
+            "vidmahe": "`do we know`",
+            "tava": "`your`",
+            "aṅghri": "`feet`",
+            "reṇu": "`dust`",
+            "sparśa": "`touch`",
+            "adhikāraḥ": "`ability`",
+            "yat": "`that`",
+            "vāñchayā": "`by desire`",
+            "śrīḥ": "`goddess lalita`",
+            "lalanā": "`the playful one`",
+            "ācarat": "`performed`",
+            "tapaḥ": "`austerity`",
+            "vihāya": "`abandoning`",
+            "kāmān": "`desires`",
+            "su-ciram": "`for a long time`",
+            "dhṛta": "`having taken`",
+            "vratā": "`vow`"
+        },
+        "meaning": "whose power of this feet dust touch ability do we not know your goddess lalita the playful one performed austerity abandoning desires for a long time having taken vow"
+    }
+}

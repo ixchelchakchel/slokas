@@ -1,0 +1,51 @@
+{
+    "verse_no": "११-२७-११",
+    "verse": "स्वच्छन्दोपात्तदेहाय विशुद्धज्ञानमूर्तये । सर्वस्मै सर्वबीजाय सर्वभूतात्मने नम: ॥",
+    "vedabase": {
+        "terms": {
+            "sandhyā": "at the three junctures of the day (dawn, noon and sunset)",
+            "upāsti": "worship (by chanting the Gāyatrī mantra)",
+            "ādi": "and so on",
+            "karmāṇi": "prescribed duties",
+            "vedena": "by the Vedas",
+            "ācoditāni": "recommended",
+            "me": "My",
+            "pūjām": "worship",
+            "taiḥ": "by these activities",
+            "kalpayet": "one should perform",
+            "samyak-saṅkalpaḥ": "who has perfectly fixed his determination (that the object of his endeavor will be the Personality of Godhead)",
+            "karma": "the reaction of fruitive work",
+            "pāvanīm": "which eradicates."
+        },
+        "translation": "Fixing the mind on Me, one should worship Me by his various prescribed duties, such as chanting the Gāyatrī mantra at the three junctures of the day. Such performances are enjoined by the Vedas and purify the worshiper of reactions to fruitive activities."
+    },
+    "gpt": {
+        "terms": {
+            "स्वच्छन्दोपात्तदेहाय (svacchandopāttadehāya)": "to the self-willed embodied one,",
+            "विशुद्धज्ञानमूर्तये (viśuddhajñānamūrtaye)": "to the embodiment of pure knowledge,",
+            "सर्वस्मै (sarvasmai)": "to all,",
+            "सर्वबीजाय (sarvabījāya)": "to the seed/source of all,",
+            "सर्वभूतात्मने (sarvabhūtātmane)": "to the soul of all beings,",
+            "नम: (namaḥ)": "I bow down."
+        },
+        "meaning": " I bow down to the self willed embodiment of pure knowledge, who is the source of all and the soul of all beings."
+    },
+    "bard": {
+        "terms": {
+            "sandhyā": "`evening`",
+            "upāsti": "`worship`",
+            "ādi": "`first`",
+            "karmāṇi": "`action`",
+            "vedena": "`by vedas`",
+            "ācoditāni": "`prompted`",
+            "me": "`my`",
+            "pūjām": "`worship`",
+            "taiḥ": "`by them`",
+            "kalpayet": "`do`",
+            "samyak-saṅkalpaḥ": "`with right intention`",
+            "karma": "`action`",
+            "pāvanīm": "`cleansing`"
+        },
+        "meaning": "Evening worship, first actions prompted by the Vedas are my worship, done with right intention cleanses action."
+    }
+}

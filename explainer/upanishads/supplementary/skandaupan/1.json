@@ -1,0 +1,60 @@
+```json
+{
+  "यत्र": "where",
+  "असंभवतां": "those who are not able to exist",
+  "याति": "goes",
+  "स्वातिरिक्तभिदाततिः": "the power to differentiate from oneself",
+  "संविन्मात्रं": "only consciousness",
+  "परं": "supreme",
+  "ब्रह्म": "Brahman",
+  "तत्": "that",
+  "स्वमात्रं": "only oneself",
+  "विजृम्भते": "expands",
+  "overall_meaning": "Where those who are unable to exist go, there is the power to differentiate from oneself. Only consciousness is the supreme Brahman, and it expands as itself.",
+
+  "ॐ": "Aum",
+  "सह": "together",
+  "नाववतु": "may we be protected",
+  "नौ": "us",
+  "भुनक्तु": "may we prosper",
+  "वीर्यं": "strength",
+  "करवावहै": "may we create",
+  "तेजस्वि": "radiant",
+  "नावधीतमस्तु": "may our learning be",
+  "मा": "not",
+  "विद्विषावहै": "may we hate",
+  "overall_meaning": "May we be protected together. May we prosper together. May we create strength together. May our learning be radiant, may we not hate.",
+
+  "ॐ": "Aum",
+  "शान्तिः": "peace",
+  "overall_meaning": "Peace, peace, peace.",
+
+  "अच्युतोऽस्मि": "I am Achyuta",
+  "महादेव": "great god",
+  "तव": "your",
+  "कारुण्यलेशतः": "by a little of your grace",
+  "विज्ञानघन": "full of knowledge",
+  "एवास्मि": "I am",
+  "शिवोऽस्मि": "I am Shiva",
+  "किमतः": "what is greater than this",
+  "परम्": "supreme",
+  "overall_meaning": "I am Achyuta, by a little of your grace, great god. I am full of knowledge, I am Shiva. What is greater than this supreme?"
+}
+``` 
+
+**Explanation:**
+
+This JSON object provides the meaning of each word in the Sanskrit verses and the overall meaning of the verses.  
+
+* **Key:** Each word from the verses is used as a key.
+* **Value:** The corresponding meaning of the word is provided as a value. 
+* **overall_meaning:** This key gives the combined meaning of the entire verse. 
+
+**Notes:**
+
+* This is a simplified translation. 
+* The exact meaning of the verses can be complex and subject to interpretation. 
+* Some words have multiple meanings depending on the context. 
+* The provided translations are based on common interpretations.
+
+The verses are from the Upanishads, which are ancient Hindu scriptures that discuss spiritual and philosophical concepts. They are often used in meditation and spiritual practices.

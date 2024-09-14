@@ -1,0 +1,58 @@
+{
+    "verse_no": "११-२९-१",
+    "verse": "सुदुश्चरामिमां मन्ये योगचर्यामनात्मनः ।\nयथाञ्जसा पुमान् सिद्ध्येत् तन्मे ब्रूह्यञ्जसाच्युत ॥",
+    "vedabase": {
+        "terms": {
+            "śrī-uddhavaḥ uvāca": "Śrī Uddhava said",
+            "su-dustarām": "very difficult to execute",
+            "imām": "this",
+            "manye": "I think",
+            "yoga-caryām": "process of yoga",
+            "anātmanaḥ": "for one who has not controlled his mind",
+            "yathā": "how",
+            "añjasā": "in a simple manner",
+            "pumān": "a person",
+            "siddhyet": "may accomplish it",
+            "tat": "that",
+            "me": "to me",
+            "brūhi": "please tell",
+            "acyuta": "O infallible Lord."
+        },
+        "translation": "Śrī Uddhava said: My dear Lord Acyuta, I fear that the method of yoga described by You is very difficult for one who cannot control his mind. Therefore please explain to me in simple terms how someone can more easily execute it."
+    },
+    "gpt": {
+        "terms": {
+            "सुदुश्चरामिमां": "Very difficult to perform this",
+            "मन्ये": "I think",
+            "योगचर्यामनात्मनः": "Yogic practices of the mind",
+            "यथाञ्जसा": "Quickly",
+            "पुमान्": "Man",
+            "सिद्ध्येत्": "Attains perfection",
+            "तन्मे": "That to me",
+            "ब्रूह्यञ्जसा": "Tell (me) quickly",
+            "च्युत": "O infallible one"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "śrī-uddhavaḥ": "śrī + uddhavaḥ = uddhava, an exalted person",
+            "uvāca": "say",
+            "su-dustarām": "very difficult",
+            "imām": "this",
+            "manye": "think",
+            "yoga-caryām": "yoga practice",
+            "anātmanaḥ": "without attachment to the self",
+            "yathā": "how",
+            "añjasā": "easily",
+            "pumān": "a person",
+            "siddhyet": "can achieve perfection",
+            "tat": "that",
+            "me": "to me",
+            "brūhi": "tell",
+            "acyuta": "infallible",
+            "śrī-uddhavaḥ uvāca su-dustarām imām manye yoga-caryām anātmanaḥ yathā añjasā pumān siddhyet tat me brūhi acyuta": "uddhava, an exalted person says, this yoga practice is very difficult, i think, without attachment to the self, how can a person easily achieve perfection, tell me that, infallible."
+        },
+        "meaning": ""
+    }
+}

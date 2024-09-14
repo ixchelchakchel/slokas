@@ -1,0 +1,58 @@
+{
+    "verse_no": "१०-१६-३७",
+    "verse": "न नाकपृष्ठं न च सार्वभौमं न पारमेष्ठ्यं न रसाधिपत्यम् ।\nन योगसिद्धीरपुनर्भवं वा वाञ्छन्ति यत्पादरजःप्रपन्नाः ॥",
+    "vedabase": {
+        "terms": {
+            "na": "not",
+            "nāka-pṛṣṭham": "heaven",
+            "na ca": "nor",
+            "sārva-bhaumam": "supreme sovereignty",
+            "pārameṣṭhyam": "the topmost position of Brahmā",
+            "rasa-adhipatyam": "rulership over the earth",
+            "yoga-siddhīḥ": "the perfections of yogic practice",
+            "apunaḥ-bhavam": "freedom from rebirth",
+            "vā": "or",
+            "vāñchanti": "desire",
+            "yat": "whose",
+            "pāda": "of the lotus feet",
+            "rajaḥ": "the dust",
+            "prapannāḥ": "those who have attained."
+        },
+        "translation": "Those who have attained the dust of Your lotus feet never hanker for the kingship of heaven, limitless sovereignty, the position of Brahmā or rulership over the earth. They are not interested even in the perfections of yoga or in liberation itself."
+    },
+    "gpt": {
+        "terms": {
+            "न नाकपृष्ठं": "Not the heavens (abode of Gods)",
+            "न च सार्वभौमं": "Nor the entire earth (worldly possessions)",
+            "न पारमेष्ठ्यं": "Nor the lord of nectar (amrita)",
+            "न रसाधिपत्यम्": "Nor the ruler of wealth (Kuvera)",
+            "न योगसिद्धीरपुनर्भवं वा": "Neither attaining the perfection of yoga nor rebirth",
+            "वाञ्छन्ति": "Desire",
+            "यत्पादरजःप्रपन्नाः": "Those who have sought refuge at your lotus feet"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "na `": "not'",
+            "nāka `": "heaven'",
+            "pṛṣṭham `": "back'",
+            "ca `": "and'",
+            "sarva `": "all'",
+            "bhaumam `": "worldly'",
+            "pārameṣṭhyam `": "supremacy'",
+            "rasa `": "taste'",
+            "adhipatyam `": "lordship'",
+            "yoga `": "union'",
+            "siddhīḥ `": "perfections'",
+            "apunaḥ-bhavam `": "return to the world'",
+            "vā `": "or'",
+            "vāñchanti `": "they desire'",
+            "yat `": "that'",
+            "pāda `": "foot'",
+            "rajaḥ `": "dust'",
+            "prapannāḥ `": "they fall down'"
+        },
+        "meaning": "They do not desire heaven, or supremacy over all the world, or lordship over taste, or perfections of union, or return to the world; they fall down at the dust of the feet of the devotees."
+    }
+}

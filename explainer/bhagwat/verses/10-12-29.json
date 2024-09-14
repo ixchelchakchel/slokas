@@ -1,0 +1,60 @@
+{
+    "verse_no": "१०-१२-२९",
+    "verse": "तदा घनच्छदा देवा भयाद्धाहेति चुक्रुशु: ।\nजहृषुर्ये च कंसाद्या: कौणपास्त्वघबान्धवा: ॥",
+    "vedabase": {
+        "terms": {
+            "tadā": "at that time",
+            "ghana-chadāḥ": "behind the clouds",
+            "devāḥ": "all the demigods",
+            "bhayāt": "on account of feeling danger because Kṛṣṇa had entered the mouth of the demon",
+            "hā-hā": "alas, alas",
+            "iti": "in this way",
+            "cukruśuḥ": "they exclaimed",
+            "jahṛṣuḥ": "became jubilant",
+            "ye": "those",
+            "ca": "also",
+            "kaṁsa-ādyāḥ": "Kaṁsa and others",
+            "kauṇapāḥ": "the demons",
+            "tu": "indeed",
+            "agha-bāndhavāḥ": "the friends of Aghāsura."
+        },
+        "translation": "When Kṛṣṇa entered the mouth of Aghāsura, the demigods hidden behind the clouds exclaimed, “Alas! Alas!” But the friends of Aghāsura, like Kaṁsa and other demons, were jubilant."
+    },
+    "gpt": {
+        "terms": {
+            "तदा (tadā)": "then",
+            "घनच्छदा (ghana": "chchadā) - with dense clouds",
+            "देवा (devā)": "the gods",
+            "भयात् (bhayāt)": "out of fear",
+            "धाहेति (dhāheti)": "uttered",
+            "चुक्रुशुः (chukruśuḥ)": "they said",
+            "जहृषुः (jahṛṣuḥ)": "they became joyful",
+            "ये (ye)": "those who",
+            "च (ca)": "and",
+            "कंसाद्याः (kam̐sādyāḥ)": "from Kamsa, etc.",
+            "कौणपाः (kauṇapāḥ)": "the warriors",
+            "त्व (tu)": "indeed",
+            "अघबान्धवाः (aghabāndhavāḥ)": "the enemies"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "tadā `": "then'",
+            "ghana-chadāḥ `": "with dense hair'",
+            "devāḥ `": "gods'",
+            "bhayāt `": "from fear'",
+            "hā-hā `": "ha-ha'",
+            "iti `": "thus'",
+            "cukruśuḥ `": "roared'",
+            "jahṛṣuḥ `": "rejoiced'",
+            "ye `": "those'",
+            "ca `": "and'",
+            "kaṁsa-ādyāḥ `": "headed by kaṁsa'",
+            "kauṇapāḥ `": "evil-minded'",
+            "tu `": "but'",
+            "agha-bāndhavāḥ `": "kinsmen of sin'"
+        },
+        "meaning": "Then, the gods with dense hair roared from fear, and those headed by Kaṁsa, the evil-minded kinsmen of sin, rejoiced."
+    }
+}

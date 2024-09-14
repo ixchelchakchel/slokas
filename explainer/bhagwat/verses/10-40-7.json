@@ -1,0 +1,60 @@
+{
+    "verse_no": "१०-४०-७",
+    "verse": "अन्ये च संस्कृतात्मानो विधिनाभिहितेन ते ।\nयजन्ति त्वन्मयास्त्वां वै बहुमूर्त्येकमूर्तिकम् ॥",
+    "vedabase": {
+        "terms": {
+            "anye": "others",
+            "ca": "and",
+            "saṁskṛta": "purified",
+            "ātmānaḥ": "whose intelligence",
+            "vidhinā": "by the injunctions (of such scriptures as the Pañcarātra)",
+            "abhihitena": "presented",
+            "te": "by You",
+            "yajanti": "worship",
+            "tvat-mayāḥ": "filled with thought of You",
+            "tvām": "You",
+            "vai": "indeed",
+            "bahu-mūrti": "having many forms",
+            "eka-mūrtikam": "having one form."
+        },
+        "translation": "And yet others — those whose intelligence is pure — follow the injunctions of Vaiṣṇava scriptures promulgated by You. Absorbing their minds in thought of You, they worship You as the one Supreme Lord manifesting in multiple forms.  ",
+        "purport": "The word saṁskṛtātmānaḥ, “they whose intelligence is pure,” is significant here. It implies that the worshipers mentioned before have not completely purified their intelligence of material contamination and thus worship the Lord indirectly. Those who are purified, however, directly worship the Lord, either as the Supreme Personality of Godhead, Lord Kṛṣṇa, or as one of His various plenary forms, such as Vāsudeva, Saṅkarṣaṇa, Pradyumna or Aniruddha, as indicated here."
+    },
+    "gpt": {
+        "terms": {
+            "Line": "by-line breakdown:",
+            "अन्ये च (anye cha)": "And others, and also",
+            "संस्कृतात्मानो (sanskritātmāno)": "those who understand Sanskrit",
+            "विधिना (vidhinā)": "by means of scriptural injunctions",
+            "अभिहितेन (abhihitena)": "instructed, directed",
+            "ते (te)": "they",
+            "यजन्ति (yajanti)": "worship",
+            "त्वन्मयाः (tvamayāḥ)": "those who are identified with You",
+            "त्वां (tvām)": "You",
+            "वै (vai)": "indeed",
+            "बहुमूर्त्येकमूर्तिकम् (bahumūrtyekamūrtikam)": "with multiple forms and a single form"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "अन्ये": "other",
+            "च": "and",
+            "संस्कृत": "pure",
+            "आत्मा": "soul",
+            "ना": "not",
+            "": "you indeed many-formed one-formed",
+            "अभिहितेन": "by calling",
+            "विधिन": "rules",
+            "ते": "they",
+            "यजन्ति": "worship",
+            "त्वत्": "your",
+            "मय": "by",
+            "त्वाम्": "you",
+            "वै": "indeed",
+            "बहु-मूर्ति": "many-formed",
+            "एक-मूर्तिक": "one-formed"
+        },
+        "meaning": "Other pure souls not by calling rules they worship you indeed many-formed one-formedOther pure souls do not worship you by following rules, but worship you as many-formed and one-formed."
+    }
+}

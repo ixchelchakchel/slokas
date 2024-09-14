@@ -1,0 +1,72 @@
+{
+    "verse_no": "१०-४६-३८",
+    "verse": "न माता न पिता यस्य न भार्या न सुतादयः ।\nनात्मीयो न परश्चापि न देहो जन्म एव च ॥",
+    "vedabase": {
+        "terms": {
+            "na": "no",
+            "mātā": "mother",
+            "pitā": "father",
+            "tasya": "for Him",
+            "bhāryā": "wife",
+            "suta-ādayaḥ": "children and so forth",
+            "ātmīyaḥ": "related to Himself",
+            "paraḥ": "an outsider",
+            "ca api": "also",
+            "dehaḥ": "body",
+            "janma": "birth",
+            "eva": "either",
+            "ca": "and."
+        },
+        "translation": "He has no mother, no father, no wife, children or other relatives. No one is related to Him, and yet no one is a stranger to Him. He has no material body and no birth."
+    },
+    "gpt": {
+        "terms": {
+            "न (na)": "not",
+            "माता (mātā)": "mother",
+            "पिता (pitā)": "father",
+            "यस्य (yasya)": "of whom/whose",
+            "भार्या (bhāryā)": "wife",
+            "सुतादयः (sutādayaḥ)": "children, etc. (family members)",
+            "नात्मीयो (nātmīyo)": "personal",
+            "परश्चापि (parascāpi)": "external/others",
+            "देहो (deho)": "body",
+            "जन्म (janma)": "birth",
+            "एव (eva)": "indeed/surely",
+            "च (ca)": "and"
+        },
+        "meaning": " This verse reflects the essence of the Hindu philosophy of Advaita (non dualism) and the concept of the ultimate reality. It emphasizes that the true nature of the Self transcends all familial and societal identities and attachments."
+    },
+    "bard": {
+        "terms": {
+            "na": "not",
+            "mātā": "mother",
+            "pitā": "father",
+            "tasya": "of that person",
+            "bhāryā": "wife",
+            "suta": "son",
+            "ādayaḥ": "and so on",
+            "ātmīyaḥ": "own",
+            "paraḥ": "other",
+            "ca": "and",
+            "api": "also",
+            "dehaḥ": "body",
+            "janma": "birth",
+            "eva": "only",
+            "not": "not",
+            "mother": "mother",
+            "father": "father",
+            "of that person": "of that person",
+            "wife": "wife",
+            "son": "son",
+            "and so on": "and so on",
+            "own": "own",
+            "other": "other",
+            "and": "and",
+            "also": "also",
+            "body": "body",
+            "birth": "birth",
+            "only": "only"
+        },
+        "meaning": ""
+    }
+}

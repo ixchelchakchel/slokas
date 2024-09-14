@@ -1,0 +1,63 @@
+{
+  "verse": "स्नानं म्लानमभूद् क्रिया न च क्रिया संध्याऽपि बन्ध्याऽभवत् । वेदः खेदमवाप शास्त्रपटली सम्पूटितान्तः स्फुटा । धर्मो मर्महतो ह्यधर्मनिचयः प्रायः क्षयं प्राप्तवान् चित्तं चुम्बति कृष्णचन्द्र चरणाम्भोजे ममाहर्निशम् ॥",
+  "gpt": {
+    "terms": {
+    "स्नानं": "bathing",
+    "म्लानमभूत्": "became tiresome",
+    "क्रिया": "activity",
+    "न": "not",
+    "च": "and",
+    "क्रिया": "activity",
+    "संध्या": "evening",
+    "अपि": "also",
+    "बन्ध्या": "bound",
+    "अभवत्": "occurred",
+    "वेदः": "knowledge",
+    "खेदमवाप": "attained sorrow",
+    "शास्त्रपटली": "pages of scriptures",
+    "सम्पूटितान्तः": "enclosed",
+    "स्फुटा": "clear",
+    "धर्मः": "duty",
+    "मर्महतः": "having deep significance",
+    "हि": "indeed",
+    "अधर्मनिचयः": "accumulation of unrighteousness",
+    "प्रायः": "usually",
+    "क्षयं": "destruction",
+    "प्राप्तवान्": "attained",
+    "चित्तं": "mind",
+    "चुम्बति": "embraces",
+    "कृष्णचन्द्र": "Krishna Chandra",
+    "चरणाम्भोजे": "at the feet",
+    "मम": "my",
+    "अहर्निशम्": "day and night"
+  },
+    "meaning": "Bathing became tiresome, and activities, even during the evening, became binding. Knowledge attained sorrow; the pages of scriptures, enclosed, are clear. Duty, having deep significance, indeed, usually results in the accumulation of unrighteousness, and destruction is usually attained. My mind embraces the feet of Krishna Chandra day and night."
+  },
+
+  "bard": {
+    "terms": {
+      "स्नानं": "bathing",
+      "म्लानमभूद्": "became a burden",
+      "क्रिया": "action",
+      "न": "not",
+      "च": "and",
+      "संघ्याऽपि": "even the evening prayer",
+      "बन्ध्याऽभवत्": "became barren",
+      "वेदः": "Vedas (scriptures)",
+      "खेदमवाप": "felt weary",
+      "शास्त्रपटली": "pages of scripture",
+      "सम्पूटितान्तः": "rolled shut and dusty",
+      "धर्मो": "Dharma (righteousness)",
+      "मर्महतो": "lay wounded",
+      "ह्यधर्मनिचयः": "the accumulation of unrighteousness",
+      "प्रायः": "nearly",
+      "क्षयं": "end",
+      "प्राप्तवान्": "reached",
+      "चित्तं": "mind",
+      "चुम्बति": "embraces",
+      "कृष्णचन्द्र": "Krishna Chandra (Lord Krishna)",
+      "चरणाम्भोजे": "the lotus feet of",
+      "माहर्निशम्": "night and day"
+    }
+  }
+}

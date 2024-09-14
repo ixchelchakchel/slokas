@@ -1,0 +1,60 @@
+{
+    "verse_no": "८-८-२२",
+    "verse": "क्‍वचिच्चिरायुर्न हि शीलमङ्गलं क्‍वचित् तदप्यस्ति न वेद्यमायुष: ।\nयत्रोभयं कुत्र च सोऽप्यमङ्गल: सुमङ्गल: कश्च न काङ्‌क्षते हि माम् ॥",
+    "vedabase": {
+        "terms": {
+            "kvacit": "someone",
+            "cira-āyuḥ": "has a long duration of life",
+            "na": "not",
+            "hi": "indeed",
+            "śīla-maṅgalam": "good behavior or auspiciousness",
+            "tat api": "although possessing good behavior",
+            "asti": "is",
+            "vedyam āyuṣaḥ": "aware of the duration of life",
+            "yatra ubhayam": "if there are both (behavior and auspiciousness)",
+            "kutra": "somewhere",
+            "ca": "also",
+            "saḥ": "that person",
+            "api": "although",
+            "amaṅgalaḥ": "a little inauspicious in some other detail",
+            "su-maṅgalaḥ": "auspicious in every respect",
+            "kaśca": "someone",
+            "kāṅkṣate": "desires",
+            "mām": "me."
+        },
+        "translation": "Someone may have longevity but not have auspiciousness or good behavior. Someone may have both auspiciousness and good behavior, but the duration of his life is not fixed. Although such demigods as Lord Śiva have eternal life, they have inauspicious habits like living in crematoriums. And even if others are well qualified in all respects, they are not devotees of the Supreme Personality of Godhead."
+    },
+    "gpt": {
+        "terms": {
+            "क्‍वचिच्चिरायु: न हि शीलमङ्गलं": "Sometimes, a long life alone is not considered auspicious.",
+            "क्‍वचित् तदप्यस्ति न वेद्यमायुष:": "Sometimes, even that long life is not known to be beneficial.",
+            "यत्रोभयं कुत्र च सोऽप्यमङ्गल:": "Wherever it may be, if both (long life and virtuous conduct) are inauspicious,",
+            "सुमङ्गल: कश्च न काङ्‌क्षते हि माम्": "Very few seek auspiciousness, but not me."
+        },
+        "meaning": " This verse highlights the idea that simply having a long life does not necessarily mean it is a virtuous or auspicious life. Sometimes, even a long life may not bring happiness or fulfillment. The verse states that if both a long life and virtuous conduct are considered inauspicious, very few people desire to seek auspiciousness and well being. However, the speaker of the verse asserts that they are not one of those few; they are not content with just longevity or mere existence."
+    },
+    "bard": {
+        "terms": {
+            "sometimes": "kvacit",
+            "long life": "cira-āyuḥ",
+            "not": "na",
+            "indeed": "hi",
+            "virtue": "śīla",
+            "auspiciousness": "maṅgalam",
+            "also": "api",
+            "it": "api",
+            "exists": "asti",
+            "knowledge": "vedyam",
+            "life": "āyuṣaḥ",
+            "where": "kutra",
+            "both": "ubhayam",
+            "he": "saḥ",
+            "inauspicious": "amaṅgalaḥ",
+            "auspicious": "su-maṅgalaḥ",
+            "who": "kaśca",
+            "desires": "kāṅkṣate",
+            "me": "mām"
+        },
+        "meaning": "Sometimes, long life is not virtuous. Yet it is known that life exists where both virtues and long life are present. Where is he, who is both inauspicious and auspicious? Who desires me?"
+    }
+}

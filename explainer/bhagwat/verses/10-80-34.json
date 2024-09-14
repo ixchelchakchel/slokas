@@ -1,0 +1,57 @@
+{
+    "verse_no": "१०-८०-३४",
+    "verse": "नाहमिज्याप्रजातिभ्यां तपसोपशमेन वा ।\nतुष्येयं सर्वभूतात्मा गुरुशुश्रूषया यथा ॥",
+    "vedabase": {
+        "terms": {
+            "na": "not",
+            "aham": "I",
+            "ijyā": "by ritual worship",
+            "prajātibhyām": "the higher birth of brāhmaṇa initiation",
+            "tapasā": "by austerity",
+            "upaśamena": "by self-control",
+            "vā": "or",
+            "tuṣyeyam": "can be satisfied",
+            "sarva": "of all",
+            "bhūta": "beings",
+            "ātmā": "the Soul",
+            "guru": "to one’s spiritual master",
+            "śuśrūṣayā": "by faithful service",
+            "yathā": "as."
+        },
+        "translation": "I, the Soul of all beings, am not as satisfied by ritual worship, brahminical initiation, penances or self-discipline as I am by faithful service rendered to one’s spiritual master.  ",
+        "purport": "The word prajāti here indicates either begetting good children or the second birth obtained by ritual initiation into Vedic culture. Although both of these are praiseworthy, Lord Kṛṣṇa here states that faithful service rendered to a bona fide spiritual master is still higher."
+    },
+    "gpt": {
+        "terms": {
+            "नाहम्": "I",
+            "इज्याप्रजातिभ्यां": "through sacrifices and external rituals",
+            "तपसोपशमेन": "through austerity and self-control",
+            "वा": "or",
+            "तुष्येयं": "can be pleased",
+            "सर्वभूतात्मा": "the soul of all beings",
+            "गुरुशुश्रूषया": "through devotion and service to the guru",
+            "यथा": "like"
+        },
+        "meaning": " I cannot be pleased through external rituals and sacrifices or through austerity and self control. The soul of all beings can be pleased only through devotion and service to the guru, just as I am pleased."
+    },
+    "bard": {
+        "terms": {
+            "na": "not",
+            "aham": "I",
+            "ijyā": "by sacrifice",
+            "prajātibhyām": "to people",
+            "tapasā": "by austerity",
+            "upaśamena": "by contentment",
+            "vā": "either",
+            "tuṣyeyam": "shall I be satisfied",
+            "sarva": "all",
+            "bhūta": "beings",
+            "ātmā": "soul",
+            "guru": "teacher",
+            "śuśrūṣayā": "by serving",
+            "yathā": "like",
+            "not `": "` I `=` by sacrifice `=` to people `=` by austerity `=` by contentment `=` either `=` shall I be satisfied `=` all `=` beings `=` soul `=` teacher `=` by serving `=` like"
+        },
+        "meaning": "I shall not be satisfied either by sacrifice to people, by austerity, by contentment, all beings, soul, by serving a teacher, like"
+    }
+}

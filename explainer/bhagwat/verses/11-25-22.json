@@ -1,0 +1,53 @@
+{
+    "verse_no": "११-२५-२२",
+    "verse": "सत्त्वे प्रलीनाः स्वर्यान्ति नरलोकं रजोलयाः ।\nतमोलयास्तु निरयं यान्ति मामेव निर्गुणाः ॥",
+    "vedabase": {
+        "terms": {
+            "sattve": "in the mode of goodness",
+            "pralīnāḥ": "those who die",
+            "svaḥ": "to heaven",
+            "yānti": "they go",
+            "nara-lokam": "to the world of human beings",
+            "rajaḥ-layāḥ": "those who die in the mode of passion",
+            "tamaḥ-layāḥ": "those who die in the mode of ignorance",
+            "tu": "and",
+            "nirayam": "to hell",
+            "mām": "to Me",
+            "eva": "however",
+            "nirguṇāḥ": "those who are free from all the modes."
+        },
+        "translation": "Those who leave this world in the mode of goodness go to the heavenly planets, those who pass away in the mode of passion remain in the world of human beings, and those dying in the mode of ignorance must go to hell. But those who are free from the influence of all modes of nature come to Me."
+    },
+    "gpt": {
+        "terms": {
+            "सत्त्वे (Sattve)": "In the mode of goodness, characterized by purity, knowledge, and goodness;",
+            "प्रलीनाः (Praleenāh)": "Merged, united;",
+            "स्वर्यान्ति (Svaryānti)": "They attain;",
+            "नरलोकं (Naralokam)": "The world of humans, earthly realm;",
+            "रजोलयाः (Rajolayāh)": "In the mode of passion, characterized by actions, desires, and attachment;",
+            "तमोलयास्तु (Tamolayāstu)": "In the mode of ignorance, characterized by laziness, delusion, and darkness;",
+            "निरयं (Nirayam)": "The realm of hell, a place of suffering;",
+            "यान्ति (Yānti)": "They go;",
+            "मामेव (Māmeva)": "Only unto Me;",
+            "निर्गुणाः (Nirguṇāh)": "Those who are beyond the three modes of nature."
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "sattve": "sattva",
+            "pralīnāḥ": "dissolve",
+            "svaḥ": "self",
+            "yānti": "go",
+            "nara-lokam": "human world",
+            "rajaḥ-layāḥ": "rajas",
+            "tamaḥ-layāḥ": "tamas",
+            "tu": "but",
+            "nirayam": "hell",
+            "mām": "me",
+            "eva": "only",
+            "nirguṇāḥ": "without qualities"
+        },
+        "meaning": "The verse means that those who are dissolved in sattva go to human world, those dissolved in rajas go to hell and those dissolved in tamas go to hell, and I am only without qualities."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "verse_no": "१०-२३-३९",
+    "verse": "धिग् जन्म नस्त्रिवृद् विद्यां धिग् ‌व्रतं धिग् ‌बहुज्ञताम् ।\nधिक् कुलं धिक् क्रियादाक्ष्यं विमुखा ये त्वधोक्षजे ॥",
+    "vedabase": {
+        "terms": {
+            "dhik": "to hell",
+            "janma": "with the birth",
+            "naḥ": "our",
+            "tri-vṛt": "threefold (the first from the physical parents, the second at the time of brahminical initiation, and the third at the time of initiation into the performances of Vedic sacrifice)",
+            "yat tat": "whatever",
+            "vratam": "with our vow (of celibacy)",
+            "bahu-jñatām": "with our extensive knowledge",
+            "kulam": "with our aristocratic lineage",
+            "kriyā-dākṣyam": "with our expertise in ritualistic activities",
+            "vimukhaḥ": "inimical",
+            "ye": "who",
+            "tu": "however",
+            "adhokṣaje": "to the transcendental Personality of Godhead."
+        },
+        "translation": "[The brāhmaṇas said:] To hell with our threefold birth, our vow of celibacy and our extensive learning! To hell with our aristocratic background and our expertise in the rituals of sacrifice! These are all condemned because we were inimical to the transcendental Personality of Godhead.  ",
+        "purport": "As explained in the definitions above, the words tri-vṛḍ janma, or “threefold birth,” refer to 1) physical birth, 2) brahminical initiation and 3) initiation into the performance of Vedic sacrifice. Everything is useless if one is ignorant of the Absolute Truth, the Supreme Lord Kṛṣṇa."
+    },
+    "gpt": {
+        "terms": {
+            "धिग् (dhig)": "This word is an interjection expressing discontent or disapproval. It can be understood as \"shame on\" or \"woe to\".",
+            "जन्म (janma)": "Birth or existence.",
+            "नस्त्रिवृत् (nastrivṛt)": "Meaning \"not threefold\" or \"not threefold knowledge\". It refers to the lack of spiritual knowledge necessary for liberation.",
+            "विद्यां (vidyām)": "Knowledge or wisdom.",
+            "व्रतं (vrataṁ)": "Pious observances or religious rituals.",
+            "बहुज्ञताम् (bahujñatām)": "Possessing great knowledge or expertise in various fields.",
+            "कुलं (kulaṁ)": "Family or lineage.",
+            "क्रियादाक्ष्यं (kriyādākṣyaṁ)": "Skill or competence in performing actions or duties.",
+            "विमुखा (vimukhā)": "Being averse or indifferent to.",
+            "ये (ye)": "Those who.",
+            "त्वधोक्षजे (tvadhokṣaje)": "In the refuge of material wealth or possessions."
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "dhik": "reproach",
+            "janma": "birth",
+            "naḥ": "ours",
+            "tri-vṛt": "threefold",
+            "yat": "that which",
+            "tat": "that",
+            "vratam": "vow",
+            "bahu-jñatām": "of the knowers of the Vedas",
+            "kulam": "family",
+            "kriyā-dākṣyam": "expertise in ritual",
+            "vimukhaḥ": "averse",
+            "ye": "who",
+            "tu": "indeed",
+            "adhokṣaje": "to the unborn"
+        },
+        "meaning": "Reproach our birth that is threefold, that vow of the knowers of the Vedas, of the family averse to expertise in ritual, who indeed are averse to the unborn."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "verse_no": "११-२५-२९",
+    "verse": "सात्त्विकं सुखमात्मोत्थं विषयोत्थं तु राजसम् ।\nतामसं मोहदैन्योत्थं निर्गुणं मदपाश्रयम् ॥",
+    "vedabase": {
+        "terms": {
+            "sāttvikam": "in the mode of goodness",
+            "sukham": "happiness",
+            "ātma-uttham": "generated from the self",
+            "viṣaya-uttham": "generated from sense objects",
+            "tu": "but",
+            "rājasam": "in the mode of passion",
+            "tāmasam": "in the mode of ignorance",
+            "moha": "from delusion",
+            "dainya": "and degradation",
+            "uttham": "derived",
+            "nirguṇam": "transcendental",
+            "mat-apāśrayam": "within Me."
+        },
+        "translation": "Happiness derived from the self is in the mode of goodness, happiness based on sense gratification is in the mode of passion, and happiness based on delusion and degradation is in the mode of ignorance. But that happiness found within Me is transcendental."
+    },
+    "gpt": {
+        "terms": {
+            "सात्त्विकं": "pure and harmonious",
+            "सुखम्": "happiness or pleasure",
+            "आत्मोत्थं": "rising from the self",
+            "विषयोत्थं": "arising from sensory objects",
+            "तु": "but or however",
+            "राजसम्": "passionate or driven by desires",
+            "तामसं": "ignorant or dull",
+            "मोहदैन्योत्थं": "arising from delusion and inertia",
+            "निर्गुणं": "beyond qualities or attributes",
+            "मदपाश्रयम्": "dependent on the material world"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "sāttvikam": "pertaining to sattva",
+            "sukha": "happiness",
+            "ātma-uttham": "arising from the self",
+            "viṣaya-uttham": "arising from objects",
+            "tu": "but",
+            "rājasam": "pertaining to rajas",
+            "tāmasam": "pertaining to tamas",
+            "moha": "delusion",
+            "dainya": "misery",
+            "uttham": "arising from",
+            "nirguṇam": "devoid of qualities",
+            "mat-apāśrayam": "attained by taking refuge in Me"
+        },
+        "meaning": "The happiness that arises from the self is sattvic, that which arises from objects is rajasic, and that which arises from delusion and misery is tamasic. The happiness that is devoid of qualities is attained by taking refuge in Me."
+    }
+}

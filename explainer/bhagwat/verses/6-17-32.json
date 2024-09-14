@@ -1,0 +1,70 @@
+{
+    "verse_no": "६-१७-३२",
+    "verse": "नाहं विरिञ्चो न कुमारनारदौ न ब्रह्मपुत्रा मुनयः सुरेशाः ।\nविदाम यस्येहितमंशकांशका न तत्स्वरूपं पृथगीशमानिनः ॥",
+    "vedabase": {
+        "terms": {
+            "na": "not",
+            "aham": "I (Lord Śiva)",
+            "viriñcaḥ": "Lord Brahmā",
+            "kumāra": "the Aśvinī-kumāras",
+            "nāradau": "the great saint Nārada",
+            "brahma-putrāḥ": "the sons of Lord Brahmā",
+            "munayaḥ": "great saintly persons",
+            "sura-īśāḥ": "all the great demigods",
+            "vidāma": "know",
+            "yasya": "of whom",
+            "īhitam": "activity",
+            "aṁśaka-aṁśakāḥ": "those who are parts of the parts",
+            "tat": "His",
+            "sva-rūpam": "real personality",
+            "pṛthak": "separate",
+            "īśa": "rulers",
+            "māninaḥ": "who consider ourselves to be."
+        },
+        "translation": "Neither I [Lord Śiva], nor Brahmā, nor the Aśvinī-kumāras, nor Nārada or the other great sages who are Brahmā’s sons, nor even the demigods can understand the pastimes and personality of the Supreme Lord. Although we are part of the Supreme Lord, we consider ourselves independent, separate controllers, and thus we cannot understand His identity.  ",
+        "purport": "Brahma-saṁhitā (5.33) states: advaitam acyutam anādim ananta-rūpamādyaṁ purāṇa-puruṣaṁ nava-yauvanaṁ cavedeṣu durlabham adurlabham ātma-bhaktaugovindam ādi-puruṣaṁ tam ahaṁ bhajāmi “I worship the Supreme Personality of Godhead, Govinda, who is the original person. He is absolute, infallible and beginningless, and although expanded into unlimited forms, He is still the same original person, the oldest person, who always appears as a fresh youth. The eternal, blissful, all-knowing forms of the Lord cannot be understood even by the best Vedic scholars, but they are always manifest to pure, unalloyed devotees.” Lord Śiva places himself as one of the nondevotees, who cannot understand the identity of the Supreme Lord. The Lord, being ananta, has an unlimited number of forms. Therefore, how is it possible for an ordinary, common man to understand Him? Lord Śiva, of course, is above the ordinary human beings, yet he is unable to understand the Supreme Personality of Godhead. Lord Śiva is not among the ordinary living entities, nor is he in the category of Lord Viṣṇu. He is between Lord Viṣṇu and the common living entity."
+    },
+    "gpt": {
+        "terms": {
+            "नाहं": "I am not",
+            "विरिञ्चो": "Brahma (creator deity)",
+            "न": "not",
+            "कुमारनारदौ": "Kumara and Narada (sages known for their wisdom and knowledge)",
+            "ब्रह्मपुत्रा": "the sons of Brahma",
+            "मुनयः": "sages",
+            "सुरेशाः": "lords of gods",
+            "विदाम": "know",
+            "यस्य": "whose",
+            "इहितमंशकांशका": "part and parcel of the material world",
+            "तत्स्वरूपं": "true nature",
+            "पृथगीशमानिनः": "rulers of the material elements"
+        },
+        "meaning": "नाहं विरिञ्चो न कुमारनारदौ न ब्रह्मपुत्रा मुनयः सुरेशाः ।विदाम यस्येहितमंशकांशका न तत्स्वरूपं पृथगीशमानिनः ॥Meaning:I am not Brahma, nor am I the wise sages Kumara and Narada. I am not the sons of Brahma, nor the lords of the gods. The rulers of the material elements do not fully understand my true nature as the part and parcel of the material world. Explanation:In this verse, the speaker asserts their identity as not being any of the prominent deities or wise sages. They clarify that they are not Brahma, the creator; nor are they the highly knowledgeable sages like Kumara and Narada. They express that they are not even the renowned sons of Brahma or the lords of the gods. The verse further highlights that even the rulers of the material elements do not fully comprehend the true nature of the speaker, who is revealed to be a fragmental part of the material world.In essence, this verse emphasizes the transcendental nature of the speaker, implying that their true essence surpasses the material designations commonly associated with powerful deities and sages."
+    },
+    "bard": {
+        "terms": {
+            "na": "not",
+            "aham": "I",
+            "viriñcaḥ": "viriñca",
+            "kumara": "kumara",
+            "nāradau": "nārada",
+            "brahma-putrāḥ": "brahma-putrāḥ",
+            "munayaḥ": "munayaḥ",
+            "sura-īśāḥ": "sura-īśāḥ",
+            "vidāma": "know",
+            "yasya": "of which",
+            "īhitam": "ihitam",
+            "aṁśaka-aṁśakāḥ": "aṁśaka-aṁśakāḥ",
+            "tat": "that",
+            "sva-rūpam": "sva-rūpam",
+            "pṛthak": "separately",
+            "īśa": "īśa",
+            "māninaḥ": "māninaḥ",
+            "I": "not",
+            "viriñca": "viriñca",
+            "nārada": "nārada",
+            "know": "of which ihitam"
+        },
+        "meaning": "I do not know of any viriñca, kumara, nārada, brahma-putrāḥ, munayaḥ, sura-īśāḥ, of which the ihitam is aṁśaka-aṁśakāḥ, that sva-rūpam separately īśa māninaḥ"
+    }
+}

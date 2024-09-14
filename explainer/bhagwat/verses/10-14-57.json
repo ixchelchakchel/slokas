@@ -1,0 +1,54 @@
+{
+    "verse_no": "१०-१४-५७",
+    "verse": "सर्वेषामपि वस्तूनां भावार्थो भवति स्थितः ।\nतत्रापि भगवान् कृष्णः किमतद् वस्तु रूप्यताम् ॥",
+    "vedabase": {
+        "terms": {
+            "sarveṣām": "of all",
+            "api": "even",
+            "vastūnām": "entities",
+            "bhāva-arthaḥ": "the original, unmanifested causal phase of material nature",
+            "bhavati": "is",
+            "sthitaḥ": "established",
+            "tasya": "of that unmanifest nature",
+            "bhagavān": "the Supreme Personality of Godhead",
+            "kṛṣṇaḥ": "Lord Kṛṣṇa",
+            "kim": "what",
+            "atat": "separate from Him",
+            "vastu": "thing",
+            "rūpyatām": "may be ascertained."
+        },
+        "translation": "The original, unmanifested form of material nature is the source of all material things, and the source of even that subtle material nature is the Supreme Personality of Godhead, Kṛṣṇa. What, then, could one ascertain to be separate from Him?"
+    },
+    "gpt": {
+        "terms": {
+            "सर्वेषाम्": "of all",
+            "अपि": "even",
+            "वस्तूनाम्": "things",
+            "भावार्थः": "the meaning",
+            "भवति": "exists",
+            "स्थितः": "established",
+            "तत्रा": "in that situation",
+            "भगवान्": "the divine Lord",
+            "कृष्णः": "Krishna",
+            "किमतद्": "what (is)",
+            "वस्तु": "the thing",
+            "रूप्यताम्": "assumed"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "sarveṣām api vastūnām `": "` all things",
+            "bhāva-arthaḥ `": "` essential nature",
+            "bhavati sthitaḥ `": "` is established",
+            "tasya `": "` in that",
+            "bhagavān `": "` the holy one",
+            "kṛṣṇaḥ `": "` krishna",
+            "kim `": "` what",
+            "atat `": "` that",
+            "vastu `": "` thing",
+            "rūpyatām `": "` takes the form of"
+        },
+        "meaning": "All things have their essential nature established in that. In that what is that thing which takes the form of the holy one Krishna?"
+    }
+}

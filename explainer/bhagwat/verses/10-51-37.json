@@ -1,0 +1,60 @@
+{
+    "verse_no": "१०-५१-३७",
+    "verse": "जन्मकर्माभिधानानि सन्ति मेऽङ्ग सहस्रशः ।\nन शक्यन्तेऽनुसङ्ख्यातुमनन्तत्वान्मयापि हि",
+    "vedabase": {
+        "terms": {
+            "śrī-bhagavān": "the Supreme Lord",
+            "uvāca": "said",
+            "janma": "births",
+            "karma": "activities",
+            "abhidhānāni": "and names",
+            "santi": "there are",
+            "me": "My",
+            "aṅga": "O dear one",
+            "sahasraśaḥ": "by the thousands",
+            "na": "not",
+            "śakyante": "they can",
+            "anusaṅkhyātum": "be enumerated",
+            "anantatvāt": "because of having no limit",
+            "mayā": "by Me",
+            "api": "even",
+            "hi": "indeed"
+        },
+        "translation": "The Supreme Lord said: My dear friend, I have taken thousands of births, lived thousands of lives and accepted thousands of names. In fact My births, activities and names are limitless, and thus even I cannot count them."
+    },
+    "gpt": {
+        "terms": {
+            "janma": "birth",
+            "karma": "actions",
+            "abhidhānāni": "terms, designations",
+            "santi": "are",
+            "me": "my",
+            "aṅga": "O Arjuna",
+            "sahasraśaḥ": "in thousands",
+            "na": "not",
+            "śakyante": "can be counted",
+            "anusaṅkhyātum": "to enumerate",
+            "anantatvān": "due to infinite",
+            "mayāpi": "by me also",
+            "hi": "indeed"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "kvacit": "sometimes",
+            "rājāṁsi": "kings",
+            "vimame": "I have defeated",
+            "pārthivāni": "earthly",
+            "uru-janmabhiḥ": "with great birth",
+            "guṇa": "quality",
+            "karma": "work",
+            "abhidhānāni": "reputation",
+            "na": "not",
+            "me": "my",
+            "janmāni": "births",
+            "karhicit": "at all"
+        },
+        "meaning": "sometimes I have defeated earthly kings with great birth, quality, work and reputation, but not my births at all"
+    }
+}

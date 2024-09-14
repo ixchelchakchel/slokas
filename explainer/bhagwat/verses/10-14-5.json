@@ -1,0 +1,80 @@
+{
+    "verse_no": "१०-१४-५",
+    "verse": "पुरेह बहवो भूमन् बहवोऽपि योगिनस्त्वदर्पितेहा खिलकर्मलब्धया ।\nविबुध्य भक्त्यैव कथोपनीतया प्रपेदिरेऽञ्जोऽच्युत ते गतिं पराम् ॥",
+    "learning": {
+        "प्रपेदिरे" : "have attained, प्राप्त हुआ, पहुंचा"
+    },
+    "vedabase": {
+        "terms": {
+            "purā": "previously",
+            "iha": "in this world",
+            "bhūman": "O almighty Lord",
+            "bahavaḥ": "many",
+            "api": "indeed",
+            "yoginaḥ": "followers of the path of yoga",
+            "tvat": "unto You",
+            "arpita": "having offered",
+            "īhāḥ": "all their endeavors",
+            "nija-karma": "by their prescribed duties",
+            "labdhayā": "which is achieved",
+            "vibudhya": "coming to understand",
+            "bhaktyā": "by devotional service",
+            "eva": "indeed",
+            "kathā-upanītayā": "cultivated through hearing and chanting topics about You",
+            "prapedire": "they achieved by surrender",
+            "añjaḥ": "easily",
+            "acyuta": "O infallible one",
+            "te": "Your",
+            "gatim": "destination",
+            "parām": "supreme."
+        },
+        "translation": "O almighty Lord, in the past many yogīs in this world achieved the platform of devotional service by offering all their endeavors unto You and faithfully carrying out their prescribed duties. Through such devotional service, perfected by the processes of hearing and chanting about You, they came to understand You, O infallible one, and could easily surrender to You and achieve Your supreme abode."
+    },
+    "gpt": {
+        "terms": {
+            "पुरेः": "from ancient times",
+            "बहवः": "many",
+            "भूमन्": "beings",
+            "बहवः अपि": "many others as well",
+            "योगिनः": "yogis",
+            "त्वदर्पितेहा": "dedicated to you",
+            "खिलकर्मलब्धया": "through various actions and accomplishments",
+            "विबुध्य": "having awakened",
+            "भक्त्यैव": "solely through devotion",
+            "कथोपनीतया": "through the teachings of stories and narratives",
+            "प्रपेदिरे": "have attained",
+            "अञ्जः": "without doubt",
+            "अच्युत": "O infallible one",
+            "ते": "your",
+            "गतिं": "path",
+            "पराम्": "supreme"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "purā": "` formerly`",
+            "iha": "` here`",
+            "bhūman": "` Earth`",
+            "bahavaḥ": "` many`",
+            "api": "` also`",
+            "yoginaḥ": "` yogis`",
+            "tvat": "` your`",
+            "arpita": "` dedicated`",
+            "īhāḥ": "` here`",
+            "nija-karma": "` by their own actions`",
+            "labdhayā": "` achieved`",
+            "vibudhya": "` awakened`",
+            "bhaktyā": "` by devotion`",
+            "eva": "` only`",
+            "kathā-upanītayā": "` and discussions`",
+            "prapedire": "` attained`",
+            "añjaḥ": "` the ultimate`",
+            "acyuta": "` infallible`",
+            "te": "` your`",
+            "gatim": "` destination`",
+            "param": "` supreme`"
+        },
+        "meaning": "Formerly, many yogis were here on Earth, awakened by their own actions, devotion and discussions, and attained your supreme destination, O infallible one."
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "verse_no": "११-२७-१२",
+    "verse": "शैली दारुमयी लौही लेप्या लेख्या च सैकती ।\nमनोमयी मणिमयी प्रतिमाष्टविधा स्मृता ॥",
+    "vedabase": {
+        "terms": {
+            "śailī": "made of stone",
+            "dāru-mayī": "made of wood",
+            "lauhī": "made of metal",
+            "lepyā": "made of clay, sandalwood and other substances laid down as a paste",
+            "lekhyā": "painted",
+            "ca": "and",
+            "saikatī": "made of sand",
+            "manaḥ-mayī": "conceived of in the mind",
+            "maṇi-mayī": "made of jewels",
+            "pratimā": "the Deity",
+            "aṣṭa-vidhā": "in eight varieties",
+            "smṛtā": "it is remembered."
+        },
+        "translation": "The Deity form of the Lord is said to appear in eight varieties — stone, wood, metal, earth, paint, sand, the mind or jewels.  ",
+        "purport": "Śrīla Jīva Gosvāmī explains that certain Deity forms, such as those made of sand, are manifested for a brief time to fulfill a personal desire of the worshiper. Those, however, who desire to attain pure love of God should worship the permanent form of the Deity (made, for instance, of marble, gold or brass), and they should maintain continual worship. In Kṛṣṇa consciousness there is no scope for neglecting the worship of the Supreme Personality of Godhead."
+    },
+    "gpt": {
+        "terms": {
+            "शैली": "(नाट्य) शैली or style",
+            "दारुमयी": "made of wood",
+            "लौही": "made of iron",
+            "लेप्या": "smeared with",
+            "लेख्या": "(योज्या) to be drawn or written",
+            "च": "and",
+            "सैकती": "(शोध्या) to be explored or investigated",
+            "मनोमयी": "made of the mind or mentally created",
+            "मणिमयी": "made of gems or studded with gems",
+            "प्रतिमाष्टविधा": "eight-fold variety of idols",
+            "स्मृता": "remembered or considered"
+        },
+        "meaning": " The second line talks about the mental aspect of art. It suggests that art can also be a creation of the mind, with images and ideas formed mentally. It further highlights that artistic expressions can be adorned with gems, and there are eight different types of idols that are well known and recognized."
+    },
+    "bard": {
+        "terms": {
+            "śailī": "rock = rock",
+            "dāru-mayī": "made of wood = made of wood",
+            "lauhī": "metallic = metallic",
+            "lepyā": "clayey = clayey",
+            "lekhyā": "written = written",
+            "ca": "and = and",
+            "saikatī": "sandy = sandy",
+            "manaḥ-mayī": "mental = mental",
+            "maṇi-mayī": "gem-like = gem-like",
+            "pratima": "image = image",
+            "aṣṭa": "eight = eight",
+            "vidhā": "type = type",
+            "smṛtā": "known = known",
+            "rock": "made of wood = metallic = clayey = written = and = sandy = mental = gem-like = image = eight type = known"
+        },
+        "meaning": "Rock, made of wood, metallic, clayey, written, and sandy, mental, gem-like, image are eight types of images known."
+    }
+}

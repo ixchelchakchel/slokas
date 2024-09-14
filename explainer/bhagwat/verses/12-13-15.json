@@ -1,0 +1,35 @@
+{
+    "verse_no": "१२-१३-१५",
+    "verse": "सर्ववेदान्तसारं हि श्रीभागवतमिष्यते ।\nतद्रसामृततृप्तस्य नान्यत्र स्याद्रतिः क्‍वचित् ॥",
+    "vedabase": {
+        "terms": {
+            "sarva-vedānta": "of all Vedānta philosophy",
+            "sāram": "the essence",
+            "hi": "indeed",
+            "śrī-bhāgavatam": "Śrīmad-Bhāgavatam",
+            "iṣyate": "is said to be",
+            "tat": "of it",
+            "rasa-amṛta": "by the nectarean taste",
+            "tṛptasya": "for one who is satisfied",
+            "na": "not",
+            "anyatra": "elsewhere",
+            "syāt": "there is",
+            "ratiḥ": "attraction",
+            "kvacit": "ever."
+        },
+        "translation": "Śrīmad-Bhāgavatam is declared to be the essence of all Vedānta philosophy. One who has felt satisfaction from its nectarean mellow will never be attracted to any other literature."
+    },
+    "gpt": {
+        "terms": {
+            "सर्ववेदान्तसारं हि": "Indeed, the essence of all Vedanta (knowledge of the Upanishads) is",
+            "श्रीभागवतमिष्यते।": "found in the Shrimad Bhagavatam.",
+            "तद्रसामृततृप्तस्य": "For those who are fully satisfied or content with the taste of that nectar,",
+            "नान्यत्र स्याद्रतिः क्वचित्॥": "there is no need for attraction to anything else elsewhere."
+        },
+        "meaning": " This verse states that the Shrimad Bhagavatam is considered the essence of all Vedanta scriptures. For those who have truly experienced the nectar like taste of the Bhagavatam, there is no need or inclination to be interested in anything else. It implies that the Bhagavatam is a comprehensive and complete source of spiritual knowledge, which satisfies all spiritual desires, rendering any other attraction insignificant."
+    },
+    "bard": {
+        "terms": {},
+        "meaning": "sarva-vedānta sāram -> essence of all vedantahi -> indeedśrī-bhāgavatam -> śrī bhāgavatamiṣyate -> is desiredtat rasa-amṛta -> that nectar of rasatṛptasya -> of one who is satisfiedna anyatra -> not anywhere elsesyāt ratiḥ -> there is pleasurekvacit -> everThe essence of all vedanta is indeed śrī bhāgavatam, which is desired by one who is satisfied by the nectar of rasa, there is no pleasure ever anywhere else."
+    }
+}

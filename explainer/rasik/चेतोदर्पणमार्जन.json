@@ -1,0 +1,110 @@
+{
+    "verse": "चेतोदर्पणमार्जनं भवमहादावाग्निनिर्वापणम् श्रेयःकैरवचन्द्रिकावितरणं विद्यावधूजीवनम् । आनंदाम्बुधिवर्धनं प्रतिपदं पूर्णामृतास्वादनम् सर्वात्मस्नपनं परं विजयते श्रीकृष्णसंकीर्तनम्",
+    "vedabase": {
+        "terms": {
+            "cetaḥ": "heart",
+            "darpaṇa": "mirror",
+            "mārjanam": "cleansing",
+            "bhava": "material existence",
+            "mahā-dāva-agni": "blazing forest fire",
+            "nirvāpaṇam": "extinguishing",
+            "śreyaḥ": "good fortune",
+            "kairava": "white lotus",
+            "candrikā": "moonshine",
+            "vitaraṇam": "spreading",
+            "vidyā": "education",
+            "vadhū": "wife",
+            "jīvanam": "life",
+            "ānanda": "bliss",
+            "ambudhi": "ocean",
+            "vardhanam": "increasing",
+            "prati-padam": "at every step",
+            "pūrṇa-amṛta": "full nectar",
+            "āsvādanam": "giving a taste",
+            "sarva": "everyone",
+            "ātma-snapanam": "bathing of the self",
+            "param": "transcendental",
+            "vijayate": "let there be victory",
+            "śrī-kṛṣṇa-saṅkīrtanam": "congregational chanting of the holy name of Kṛṣṇa"
+        },
+        "meaning" : "Let there be all victory for the chanting of the holy name of Lord Kṛṣṇa, which can cleanse the mirror of the heart and stop the miseries of the blazing fire of material existence. That chanting is the waxing moon that spreads the white lotus of good fortune for all living entities. It is the life and soul of all education. The chanting of the holy name of Kṛṣṇa expands the blissful ocean of transcendental life. It gives a cooling effect to everyone and enables one to taste full nectar at every step"
+    },
+    "gpt": {
+        "terms": {
+            "चेतोदर्पणमार्जनं": {
+                "चेतस्": "mind",
+                "उदर्पण": "mirror",
+                "मार्जनं": "cleansing"
+            },
+            "भवमहादावाग्निनिर्वापणम्": {
+                "भव": "material existence",
+                "महा": "great",
+                "दावाग्नि": "forest fire",
+                "निर्वापणम्": "extinguishing"
+            },
+            "श्रेयःकैरवचन्द्रिकावितरणं": {
+                "श्रेयः": "ultimate good",
+                "कैरव": "moon",
+                "चन्द्रिका": "moonlight",
+                "वितरणं": "spreading"
+            },
+            "विद्यावधूजीवनम्": {
+                "विद्या": "knowledge",
+                "अधू": "bride",
+                "जीवनम्": "life"
+            },
+            "आनंदाम्बुधिवर्धनं": {
+                "आनंद": "joy",
+                "अम्बुधि": "ocean",
+                "वर्धनं": "increasing"
+            },
+            "प्रतिपदं": "at every step",
+            "पूर्णामृतास्वादनम्": {
+                "पूर्ण": "full",
+                "अमृत": "nectar",
+                "आस्वादनम्": "taste"
+            },
+            "सर्वात्मस्नपनं": {
+                "सर्वा": "entire",
+                "आत्म": "self",
+                "स्नपनं": "bathing"
+            },
+            "परं विजयते": "supremely victorious",
+            "श्रीकृष्णसंकीर्तनम्": {
+                "श्रीकृष्ण": "Lord Krishna",
+                "संकीर्तनम्": "chanting"
+            }
+        },
+        "meaning": "The chanting of the holy names of Lord Krishna is supremely victorious; it bathes the entire self, tastes like the full nectar at every step, increases the ocean of joy, is the life of the bride of knowledge, spreads the moonlight of divine words (ultimate good), extinguishes the great forest fire of material existence, and cleanses the mirror of the mind."
+    },
+    "bard": {
+        "terms": {
+            "चेतः": "mind",
+            "दर्पण": "mirror",
+            "मार्जनं": "cleaning, purifying",
+            "भव": "worldly existence, samsara",
+            "महादाव": "great forest",
+            "अग्नि": "fire",
+            "निर्वापण": "extinguishing, quenching",
+            "श्रेयः": "auspiciousness, well-being",
+            "कैरव": "moonlight",
+            "चन्द्रिका": "moonlight",
+            "वितरण": "distribution, spreading",
+            "विद्या": "knowledge, learning",
+            "वधू": "bride, beloved",
+            "जीवन": "life, existence",
+            "आनंद": "bliss, happiness",
+            "अम्बुधि": "ocean",
+            "वर्धन": "increasing, magnifying",
+            "प्रतिपदं": "at every step, constantly",
+            "पूर्ण": "full, complete",
+            "अमृत": "nectar, immortality",
+            "आस्वादन": "tasting, experiencing",
+            "सर्व": "all, entire",
+            "आत्मन्": "self, soul",
+            "स्नपनं": "bathing, immersing"
+        },
+        "meaning": "The verse exalts the supreme chanting of Lord Krishna's holy names, praising its power to purify the mind, extinguish the fires of worldly attachments and suffering, and bathe the entire self in the nectar of divine joy. Through this practice, one experiences the full moonlit splendor of auspiciousness, knowledge, and liberation, ultimately tasting the full nectar of immortality."
+    }
+
+}

@@ -1,0 +1,63 @@
+{
+    "verse_no": "५-८-२०",
+    "verse": "अपिस्विदकृतसुकृतमागत्य मां सुखयिष्यति हरिणराजकुमारो विविधरुचिरदर्शनीयनिजमृगदारकविनोदैरसन्तोषं स्वानामपनुदन् ",
+    "vedabase": {
+        "terms": {
+            "api svit": "whether it will",
+            "akṛta-sukṛtam": "who has never executed any pious activities",
+            "āgatya": "coming back",
+            "mām": "to me",
+            "sukhayiṣyati": "give pleasure",
+            "hariṇa-rāja-kumāraḥ": "the deer, who was just like a prince because of my taking care of it exactly like a son",
+            "vividha": "various",
+            "rucira": "very pleasing",
+            "darśanīya": "to be seen",
+            "nija": "own",
+            "mṛga-dāraka": "befitting the calf of the deer",
+            "vinodaiḥ": "by pleasing activities",
+            "asantoṣam": "the unhappiness",
+            "svānām": "of his own kind",
+            "apanudan": "driving away."
+        },
+        "translation": "That deer is exactly like a prince. When will it return? When will it again display its personal activities, which are so pleasing? When will it again pacify a wounded heart like mine? I certainly must have no pious assets, otherwise the deer would have returned by now.  ",
+        "purport": "Out of strong affection, the King accepted the small deer as if it were a prince. This is called moha. Due to his anxiety over the deer’s absence, the King addressed the animal as though it were his son. Out of affection, anyone can be addressed as anything."
+    },
+    "gpt": {
+        "terms": {
+            "अपि": "Even",
+            "स्वित्": "if",
+            "अकृतसुकृतम्": "having or not having done good deeds",
+            "आगत्य": "having come",
+            "माम्": "unto me",
+            "सुखयिष्यति": "will make happy",
+            "हरिणराजकुमारः": "the prince of deer (metaphor for the mind)",
+            "विविधरुचिरदर्शनीयनिजमृगदारकविनोदैः": "with various beautiful, interesting, and charming scenes resembling the sportive play of wild animals",
+            "आसन्तोषं": "satisfaction",
+            "स्वानाम्": "to his own",
+            "अपनुदन्": "bestowed"
+        },
+        "meaning": "Even if one, having or not having done good deeds, comes to me, the prince of deer (representing the mind), will make me happy by satisfying himself with various beautiful and enchanting scenes resembling the playful activities of wild animals."
+    }
+,
+    "bard": {
+        "terms": {
+            "api": "indeed",
+            "svit": "soon",
+            "akṛta-sukṛtam": "not having done any good",
+            "āgatya": "having come",
+            "mām": "me",
+            "sukhayiṣyati": "will gladden",
+            "hariṇa-rāja-kumāraḥ": "the young prince of the elephants",
+            "vividha": "different",
+            "rucira": "charming",
+            "darśanīya": "beautiful",
+            "nija": "his own",
+            "mṛga-dāraka": "young elephant",
+            "vinodaiḥ": "with his sportive tricks",
+            "asantoṣam": "anger",
+            "svānām": "his own",
+            "apanudan": "will put to rest"
+        },
+        "meaning": "Indeed, soon the young prince of the elephants, having come, will gladden me with his sportive tricks, with his different charming and beautiful youthful elephant tricks, and will put to rest the anger of his own."
+    }
+}

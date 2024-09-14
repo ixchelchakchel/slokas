@@ -1,0 +1,299 @@
+```json
+{
+  "आपो": {
+    "आप": "water",
+    "overall": "water"
+  },
+  "वा": {
+    "overall": "indeed"
+  },
+  "अग्र": {
+    "overall": "first, primary"
+  },
+  "आसन्": {
+    "overall": "were"
+  },
+  "तत्र": {
+    "overall": "there"
+  },
+  "प्रजापतिर्वायुर्भूत्वा": {
+    "प्रजापति": "lord of creatures",
+    "वायु": "wind",
+    "भूत्वा": "becoming",
+    "overall": "the lord of creatures becoming wind" 
+  },
+  "ऽश्राम्यतेदं": {
+    "ऽश्राम्य": "not tired",
+    "एदं": "this",
+    "overall": "not tired, this"
+  },
+  "सृजेयमिति": {
+    "सृज": "create",
+    "एय": "will",
+    "मिति": "thus",
+    "overall": "will create thus"
+  },
+  "स": {
+    "overall": "he"
+  },
+  "तपोऽतप्यत": {
+    "तप": "austerity, penance",
+    "ऽतप्य": "performed",
+    "त": "that",
+    "overall": "he performed austerity"
+  },
+  "तत": {
+    "overall": "then"
+  },
+  "ओङ्कारमपश्यत्": {
+    "ओङ्कार": "OM",
+    "अपश्यत्": "saw",
+    "overall": "he saw OM"
+  },
+  "ततो": {
+    "overall": "then"
+  },
+  "व्याहृतीस्ततो": {
+    "व्याहृति": "sacred syllables (Bhur, Bhuvah, Suvah)",
+    "ततो": "then",
+    "overall": "then the sacred syllables" 
+  },
+  "गायत्रीम्": {
+    "गायत्री": "Gayatri mantra",
+    "overall": "the Gayatri mantra"
+  },
+  "गायत्र्या": {
+    "गायत्री": "Gayatri mantra",
+    "या": "by",
+    "overall": "by the Gayatri mantra"
+  },
+  "वेदास्तैरिदमसृजत": {
+    "वेदा": "Vedas",
+    "तै": "with them",
+    "इदं": "this",
+    "असृज": "created",
+    "त": "that",
+    "overall": "he created this with them, the Vedas"
+  },
+  "धूममार्गविस्तृतं": {
+    "धूम": "smoke",
+    "मार्ग": "path",
+    "विस्तृत": "extensive",
+    "overall": "the path of smoke, extensive"
+  },
+  "हि": {
+    "overall": "indeed"
+  },
+  "वेदार्थमभिसन्धाय": {
+    "वेद": "Vedas",
+    "अर्थ": "meaning",
+    "अभिसन्धा": "aiming for",
+    "य": "by",
+    "overall": "aiming for the meaning of the Vedas"
+  },
+  "चतुर्दश": {
+    "चतुर्": "four",
+    "दश": "ten",
+    "overall": "fourteen"
+  },
+  "लोकानसृजत": {
+    "लोक": "world",
+    "असृज": "created",
+    "त": "that",
+    "overall": "he created those fourteen worlds"
+  },
+  "तत": {
+    "overall": "then"
+  },
+  "उपनिषदः": {
+    "उपनिषद": "Upanishads",
+    "overall": "the Upanishads"
+  },
+  "श्रुतय": {
+    "श्रुति": "revealed scriptures",
+    "overall": "the revealed scriptures"
+  },
+  "आविर्बभूवुः": {
+    "आविर्": "manifest",
+    "भव": "be",
+    "ऊवु": "became",
+    "overall": "became manifest"
+  },
+  "अर्चिमार्गविस्तृतं": {
+    "अर्चि": "flame",
+    "मार्ग": "path",
+    "विस्तृत": "extensive",
+    "overall": "the extensive path of flame"
+  },
+  "वेदार्थमभिसन्धाय": {
+    "वेद": "Vedas",
+    "अर्थ": "meaning",
+    "अभिसन्धा": "aiming for",
+    "य": "by",
+    "overall": "aiming for the meaning of the Vedas" 
+  },
+  "सर्वान्वेदासरहस्योपनिषदङ्गान्": {
+    "सर्व": "all",
+    "वेदा": "Vedas",
+    "सर": "essence",
+    "हस्य": "mystery",
+    "उपनिषद": "Upanishads",
+    "अङ्ग": "part",
+    "आन्": "of",
+    "overall": "all the essence, mysteries, parts of the Upanishads"
+  },
+  "ब्रह्मलोके": {
+    "ब्रह्म": "Brahman",
+    "लोक": "world",
+    "ए": "in",
+    "overall": "in the world of Brahman"
+  },
+  "स्थापयामास": {
+    "स्थाप": "establish",
+    "यामास": "he did",
+    "overall": "he established"
+  },
+  "ताश्च": {
+    "ता": "they",
+    "च": "and",
+    "overall": "and they"
+  },
+  "उपादिशद्वैवस्वते": {
+    "उपा": "near",
+    "दिश": "teach",
+    "वैवस्वत": "Vaivasvata Manu (the current Manu)",
+    "ए": "to",
+    "overall": "taught to Vaivasvata Manu" 
+  },
+  "अन्तरे": {
+    "overall": "in the interval, later"
+  },
+  "सगुणं": {
+    "स": "with",
+    "गुण": "qualities",
+    "overall": "with qualities"
+  },
+  "ब्रह्म": {
+    "overall": "Brahman"
+  },
+  "चिद्घनानन्दैकरूपं": {
+    "चिद्": "consciousness",
+    "घन": "essence",
+    "आनन्द": "bliss",
+    "एका": "one",
+    "रूप": "form",
+    "overall": "one form of consciousness, essence, and bliss"
+  },
+  "पुरुषोत्तमरूपेण": {
+    "पुरुषोत्तम": "Supreme Being",
+    "रूप": "form",
+    "एण": "by",
+    "overall": "by the form of the Supreme Being"
+  },
+  "मथुरायां": {
+    "मथुरा": "Mathura",
+    "यां": "in",
+    "overall": "in Mathura"
+  },
+  "वसुदेवसद्मन्याविर्भविष्यति": {
+    "वसुदेव": "Vasudeva",
+    "सद्मन": "house, dwelling",
+    "या": "in",
+    "आविर्": "manifest",
+    "भव": "be",
+    "ष्यति": "will",
+    "overall": "will manifest in the house of Vasudeva"
+  },
+  "तत्र": {
+    "overall": "there"
+  },
+  "भवत्यः": {
+    "भव": "be",
+    "त्यः": "they",
+    "overall": "they will be" 
+  },
+  "सर्वलोकोत्कृष्टसौन्दर्यक्रीडाभोगा": {
+    "सर्व": "all",
+    "लोक": "world",
+    "उत्कृष्ट": "excellent",
+    "सौन्दर्य": "beauty",
+    "क्रीडा": "play, sport",
+    "भोग": "enjoyment",
+    "overall": "the enjoyment of play with all the excellent beauty of the world"
+  },
+  "गोपिकास्वरूपैः": {
+    "गोपिका": "cowherd woman",
+    "स्वरूप": "form",
+    "ऐः": "with",
+    "overall": "with the forms of cowherd women"
+  },
+  "परब्रह्मानन्दैकरूपं": {
+    "पर": "supreme",
+    "ब्रह्म": "Brahman",
+    "आनन्द": "bliss",
+    "एका": "one",
+    "रूप": "form",
+    "overall": "one form of supreme Brahman bliss"
+  },
+  "कृष्णं": {
+    "कृष्ण": "Krishna",
+    "overall": "Krishna"
+  },
+  "भजिष्यथ": {
+    "भज": "worship",
+    "ष्यथ": "will",
+    "overall": "will worship"
+  },
+  "तत्र": {
+    "overall": "there"
+  },
+  "श्लोकाः": {
+    "श्लोक": "verse",
+    "overall": "verses"
+  },
+  "---": {
+    "overall": "(indicating continuation)"
+  },
+  "इति": {
+    "overall": "thus"
+  },
+  "ब्रह्मवरं": {
+    "ब्रह्म": "Brahman",
+    "वर": "boon",
+    "overall": "boon of Brahman"
+  },
+  "लब्ध्वा": {
+    "लब्ध": "obtained",
+    "वा": "having",
+    "overall": "having obtained"
+  },
+  "श्रुतयो": {
+    "श्रुति": "revealed scriptures",
+    "overall": "the revealed scriptures"
+  },
+  "ब्रह्मश्लोकगाः": {
+    "ब्रह्म": "Brahman",
+    "श्लोक": "verse",
+    "गा": "singer",
+    "overall": "singers of verses of Brahman"
+  },
+  "कृष्णमाराधयामासुर्गोकुले": {
+    "कृष्ण": "Krishna",
+    "आराध": "worship",
+    "यामास": "they did",
+    "उर": "in",
+    "गो कुल": "cowherd village",
+    "ए": "in",
+    "overall": "they worshipped Krishna in the cowherd village"
+  },
+  "धर्मसङ्कुले": {
+    "धर्म": "righteousness",
+    "सङ्कुल": "gathered, assembled",
+    "overall": "gathered in righteousness" 
+  }
+}
+```
+
+**Overall Meaning:** 
+
+Water was the first element. The lord of creatures, becoming wind, decided to create. He performed austerity, and saw OM, then the sacred syllables, then the Gayatri mantra. With the Gayatri mantra, he created the Vedas, and aiming for the meaning of the Vedas, created fourteen worlds, following the extensive path of smoke. Then the revealed scriptures, aiming for the meaning of the Vedas, following the extensive path of flame, established all the essential mysteries and parts of the Upanishads in the world of Brahman. He later taught to Vaivasvata Manu, that Brahman with qualities, will manifest in Mathura in the house of Vasudeva as one form of consciousness, essence, and bliss, in the form of the Supreme Being. There, with the form of cowherd women, they will enjoy the best play and beauty of all the worlds, and worship Krishna, one form of supreme Brahman bliss. Having received this boon from Brahman, the revealed scriptures became singers of verses of Brahman, and worshipped Krishna in the cowherd village, gathered in righteousness. 

@@ -1,0 +1,45 @@
+{
+    "verse_no": "१-४-२०",
+    "verse": "ऋग्यजुःसामाथर्वाख्या वेदाश्चत्वार उद्‍धृताः ।\nइतिहासपुराणं च पञ्चमो वेद उच्यते ॥",
+    "vedabase": {
+        "terms": {
+            "ṛg-yajuḥ-sāma-atharva-ākhyāḥ": "the names of the four Vedas",
+            "vedāḥ": "the Vedas",
+            "catvāraḥ": "four",
+            "uddhṛtāḥ": "made into separate parts",
+            "itihāsa": "historical records (Mahābhārata)",
+            "purāṇam ca": "and the Purāṇas",
+            "pañcamaḥ": "the fifth",
+            "vedaḥ": "the original source of knowledge",
+            "ucyate": "is said to be."
+        },
+        "translation": "The four divisions of the original sources of knowledge [the Vedas] were made separately. But the historical facts and authentic stories mentioned in the Purāṇas are called the fifth Veda."
+    },
+    "gpt": {
+        "terms": {
+            "ṛg": "yajūh-sāmātharvākhyā vedāś-chatvāra uddhṛtāḥ.",
+            "itihāsa": "purāṇaṁ cha pañcamo veda ucyate."
+        },
+        "meaning": " The Vedas are four in number Ṛgveda, Yajurveda, Sāmaveda, and Atharvaveda."
+    },
+    "bard": {
+        "terms": {
+            "ṛg": "ṛc = praise",
+            "yajuḥ": "yaj = sacrifice",
+            "sāma": "sāman = chant",
+            "atharva": "ātharvan = magical formula",
+            "ākhyāḥ": "ākhyāna = name",
+            "vedāḥ": "veda",
+            "catvāraḥ": "catvāra",
+            "uddhṛtāḥ": "uddhṛ",
+            "itihāsa": "iti + hāsa",
+            "purāṇam": "purāṇa",
+            "ca": "and",
+            "pañcamaḥ": "pañca + ma",
+            "vedaḥ": "veda",
+            "ucyate": "ucyate",
+            "Rig-Yajuḥ-Sāma-Atharva-ākhyāḥ": "ṛc + yaj + sāman + ātharvan + ākhyāna"
+        },
+        "meaning": "The four Vedas are named Ṛg, Yajus, Sāma, and Atharva.Itihāsa and Purāṇa are the fifth great Veda."
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "verse_no": "११-१४-२२",
+    "verse": "धर्मः सत्यदयोपेतो विद्या वा तपसान्विता ।\nमद्भ‍क्त्यापेतमात्मानं न सम्यक् प्रपुनाति हि ॥",
+    "learning": {
+        "प्रपुनाति": "पुन् -> to purify, clean",
+        "सम्यक्": "complete"
+    },
+    "vedabase": {
+        "terms": {
+            "dharmaḥ": "religious principles",
+            "satya": "with truthfulness",
+            "dayā": "and mercy",
+            "upetaḥ": "endowed",
+            "vidyā": "knowledge",
+            "vā": "or",
+            "tapasā": "with austerity",
+            "anvitā": "endowed",
+            "mat-bhaktyā": "devotional service to Me",
+            "apetam": "bereft of",
+            "ātmānam": "consciousness",
+            "na": "not",
+            "samyak": "completely",
+            "prapunāti": "purifies",
+            "hi": "certainly."
+        },
+        "translation": "Neither religious activities endowed with honesty and mercy nor knowledge obtained with great penance can completely purify one’s consciousness if they are bereft of loving service to Me.  ",
+        "purport": "Although pious religious work, truthfulness, mercy, penances and knowledge partially purify one’s existence, they do not take out the root of material desires. Thus the same desires will reappear at a later time. After an extensive program of material gratification, one becomes eager to perform austerities, acquire knowledge, perform selfless work and in general purify one’s existence. After sufficient piety and purification, however, one again becomes eager for material enjoyment. When clearing an agricultural field one must uproot the unwanted plants, otherwise with the coming of rain everything will grow back as it was. Pure devotional service to the Lord uproots one’s material desires, so that there is no danger of relapsing into a degraded life of material gratification. In the eternal kingdom of God, loving reciprocation between the Lord and His devotees is manifest. One who has not come to this stage of enlightenment must remain on the material platform, which is always full of discrepancies and contradictions. Thus everything is incomplete and imperfect without loving service to the Lord."
+    },
+    "gpt": {
+        "terms": {
+            "धर्मः": "Dharma (righteousness)",
+            "सत्यदयोपेतः": "Accompanied with truth and compassion",
+            "विद्या": "Knowledge",
+            "वा": "or",
+            "तपसान्विता": "Revered through austerities",
+            "मद्भक्त्यापेतमात्मानं": "Whose self is devoted to Me",
+            "न": "Not",
+            "सम्यक्": "completely",
+            "प्रपुनाति": "purifies",
+            "हि": "indeed"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "dharmaḥ": "duty",
+            "satya": "truth",
+            "dayā": "compassion",
+            "upetaḥ": "accompanied by",
+            "vidyā": "knowledge",
+            "vā": "or",
+            "tapasā": "austerity",
+            "anvitā": "accompanied by",
+            "mat-bhaktyā": "devotion to me",
+            "apetam": "obtained",
+            "ātmānam": "self",
+            "na": "not",
+            "samyak": "fully",
+            "prapunāti": "attain",
+            "hi": "indeed"
+        },
+        "meaning": "Duty accompanied by truth and compassion, or knowledge accompanied by austerity or devotion to me, not fully attained, the self indeed is not attained."
+    }
+}

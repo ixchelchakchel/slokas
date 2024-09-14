@@ -1,0 +1,45 @@
+{
+    "verse_no": "३-९-४३",
+    "verse": "सर्ववेदमयेनेदमात्मनात्मात्मयोनिना ।\nप्रजाः सृज यथापूर्वं याश्च मय्यनुशेरते ॥",
+    "vedabase": {
+        "terms": {
+            "sarva": "all",
+            "veda-mayena": "under complete Vedic wisdom",
+            "idam": "this",
+            "ātmanā": "by the body",
+            "ātmā": "you",
+            "ātma-yoninā": "directly born of the Lord",
+            "prajāḥ": "living entities",
+            "sṛja": "generate",
+            "yathā-pūrvam": "as it was hereinbefore",
+            "yāḥ": "which",
+            "ca": "also",
+            "mayi": "in Me",
+            "anuśerate": "lie."
+        },
+        "translation": "By following My instructions you can now generate the living entities as before, by dint of your complete Vedic wisdom and the body you have directly received from Me, the supreme cause of everything."
+    },
+    "gpt": {
+        "terms": {
+            "सर्ववेदमयेन": "(sarva) all, (veda) knowledge, (maya) imbued with, (idam) this,",
+            "आत्मना": "(atmanā) with the self,",
+            "आत्मात्मयोनिना": "(ātmātma-yoninā) who takes birth from oneself,",
+            "प्रजाः": "(prajāḥ) beings,",
+            "सृज": "(sṛj) create,",
+            "यथापूर्वं": "(yathāpūrvam) as before,",
+            "याश्च": "(yāśca) and those,",
+            "मयि": "(mayi) in me,",
+            "अनुशेरते": "(anuśerate) abide."
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "sarva veda-mayena idam ātmanā ātmā": "all this universe is pervaded by the all-pervading Self",
+            "ātma-yoninā prajāḥ sṛja": "create beings as the result of your own Self",
+            "yathā-pūrvam": "as before",
+            "yāḥ ca mayi anuśerate": "who follow me"
+        },
+        "meaning": "overall meaning:The all-pervading Self creates beings as the result of its own Self, as before, who follow me."
+    }
+}

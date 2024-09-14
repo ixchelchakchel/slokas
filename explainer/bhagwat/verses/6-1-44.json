@@ -1,0 +1,56 @@
+{
+    "verse_no": "६-१-४४",
+    "verse": "सम्भवन्ति हि भद्राणि विपरीतानि चानघाः ।\nकारिणां गुणसङ्गोऽस्ति देहवान्न ह्यकर्मकृत् ॥",
+    "vedabase": {
+        "terms": {
+            "sambhavanti": "there are",
+            "hi": "indeed",
+            "bhadrāṇi": "auspicious, pious activities",
+            "viparītāni": "just the opposite (inauspicious, sinful activities)",
+            "ca": "also",
+            "anaghāḥ": "O sinless inhabitants of Vaikuṇṭha",
+            "kāriṇām": "of the fruitive workers",
+            "guṇa-saṅgaḥ": "contamination of the three modes of nature",
+            "asti": "there is",
+            "deha-vān": "anyone who has accepted this material body",
+            "na": "not",
+            "akarma-kṛt": "without performing action."
+        },
+        "translation": "O inhabitants of Vaikuṇṭha, you are sinless, but those within this material world are all karmīs, whether acting piously or impiously. Both kinds of action are possible for them because they are contaminated by the three modes of nature and must act accordingly. One who has accepted a material body cannot be inactive, and sinful action is inevitable for one acting under the modes of material nature. Therefore all the living entities within this material world are punishable.  ",
+        "purport": "The difference between human beings and nonhuman beings is that a human is supposed to act according to the direction of the Vedas. Unfortunately, men manufacture their own ways of acting, without reference to the Vedas. Therefore all of them commit sinful actions and are punishable."
+    },
+    "gpt": {
+        "terms": {
+            "सम्भवन्ति": "(sambhavanti) they arise",
+            "हि": "(hi) indeed",
+            "भद्राणि": "(bhadraani) auspicious things",
+            "विपरीतानि": "(vipareetaani) opposite, adverse",
+            "च": "(cha) and",
+            "अनघाः": "(anaghaah) O sinless one",
+            "कारिणां": "(kaarinaam) of the doers",
+            "गुणसङ्गः": "(gunasangah) attachment to qualities",
+            "अस्ति": "(asti) exists",
+            "देहवान्": "(dehavaan) one who possesses a body",
+            "न": "(na) not",
+            "अकर्मकृत्": "(akarmakrit) non-doer"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "sambhavanti": "come about",
+            "hi": "indeed",
+            "bhadrāṇi": "good things",
+            "viparītāni": "bad things",
+            "ca": "and",
+            "anaghāḥ": "blameless",
+            "kāriṇām": "for those who do",
+            "guṇa-saṅgaḥ": "association with qualities",
+            "asti": "is",
+            "deha-vān": "embodied being",
+            "na": "not",
+            "akarma-kṛt": "non-doer"
+        },
+        "meaning": "For those who act, there are both good and bad things that come about, but the embodied being is not to be blamed, since they are associated with qualities."
+    }
+}

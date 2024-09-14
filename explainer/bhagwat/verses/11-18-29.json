@@ -1,0 +1,53 @@
+{
+    "verse_no": "११-१८-२९",
+    "verse": "बुधो बालकवत् क्रीडेत् कुशलो जडवच्चरेत् ।\nवदेदुन्मत्तवद् विद्वान् गोचर्यां नैगमश्चरेत् ॥",
+    "vedabase": {
+        "terms": {
+            "budhaḥ": "although intelligent",
+            "bālaka-vat": "like a child (oblivious to honor and dishonor)",
+            "krīḍet": "he should enjoy life",
+            "kuśalaḥ": "although expert",
+            "jaḍa-vat": "like a stunted person",
+            "caret": "he should perform.",
+            "vadet": "he should speak",
+            "unmatta-vat": "like an insane person",
+            "vidvān": "although most learned",
+            "go-caryām": "unrestricted behavior",
+            "naigamaḥ": "although expert in Vedic injunctions"
+        },
+        "translation": "Although most wise, the paramahaṁsa should enjoy life like a child, oblivious to honor and dishonor; although most expert, he should behave like a stunted, incompetent person; although most learned, he should speak like an insane person; and although a scholar learned in Vedic regulations, he should behave in an unrestricted manner.  ",
+        "purport": "A paramahaṁsa-sannyāsī, fearing that his mind may be deviated by the tremendous prestige that people sometimes offer to a perfectly self-realized person, conceals his position as described in this verse. A self-realized person does not try to please the mass of people, nor does he desire social prestige, since the mission of his life is to remain detached from the material world and to always please the Supreme Personality of Godhead. Although neglecting ordinary rules and regulations, a paramahaṁsa does not ever become sinful or immoral, but rather neglects ritualistic aspects of religious custom, such as dressing in a particular way, performing certain ceremonies or executing specific penances and austerities. The pure devotees of the Lord who have dedicated their lives to propagating the Lord’s holy name must very expertly present Kṛṣṇa consciousness in a way pleasing to the mass of people so that they will accept it. Those who are preaching should try to make Lord Śrī Kṛṣṇa popular without trying to advance their personal prestige in the name of missionary progress. A paramahaṁsa not engaged in distributing Kṛṣṇa consciousness, however, should have no attachment whatsoever to public opinion."
+    },
+    "gpt": {
+        "terms": {
+            "बुधः": "The wise person",
+            "बालकवत्": "like a child",
+            "क्रीडेत्": "should play",
+            "कुशलः": "skillfully",
+            "जडवत्": "like a fool",
+            "चरेत्": "should follow",
+            "वदेत्": "should speak",
+            "उन्मत्तवत्": "like a madman",
+            "विद्वान्": "the knowledgeable person",
+            "गोचर्याम्": "in the world",
+            "नैगमः": "the scriptures"
+        },
+        "meaning": " This verse emphasizes the importance of humility, simplicity, and detachment in the pursuit of knowledge and wisdom. It suggests that one should engage in life's activities with a light hearted and open-minded approach, without being weighed down by societal expectations or personal ego. Additionally, it emphasizes the need to align one's actions and words with the teachings and principles of the scriptures."
+    },
+    "bard": {
+        "terms": {
+            "budhaḥ": "` wise man`",
+            "bālaka-vat": "` like a child`",
+            "krīḍet": "` should play`",
+            "kuśalaḥ": "` intelligent man`",
+            "jaḍa-vat": "` like a fool`",
+            "caret": "` should move`",
+            "vadet": "` should speak`",
+            "unmatta-vat": "` like a mad man`",
+            "vidvān": "` learned man`",
+            "go-caryām": "` should follow the way of cows`",
+            "naigamaḥ": "` a sage`"
+        },
+        "meaning": "wise man should play like a child, intelligent man should move like a fool, learned man should speak like a mad man, a sage should follow the way of cows"
+    }
+}

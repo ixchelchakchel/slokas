@@ -1,0 +1,56 @@
+{
+    "verse_no": "१०-९०-२७",
+    "verse": "याः सम्पर्यचरन्प्रेम्णा पादसंवाहनादिभिः ।\nजगद्गुरुं भर्तृबुद्ध्या तासां किं वर्ण्यते तपः ॥",
+    "vedabase": {
+        "terms": {
+            "yāḥ": "who",
+            "samparyacaran": "perfectly served",
+            "premṇā": "with pure love",
+            "pāda": "His feet",
+            "saṁvāhana": "by massaging",
+            "ādibhiḥ": "and so forth",
+            "jagat": "of the universe",
+            "gurum": "the spiritual master",
+            "bhartṛ": "as their husband",
+            "buddhyā": "with the attitude",
+            "tāsām": "of them",
+            "kim": "how",
+            "varṇyate": "can be described",
+            "tapaḥ": "the austere penances."
+        },
+        "translation": "And how could one possibly describe the great austerities that had been performed by the women who perfectly served Him, the spiritual master of the universe, in pure ecstatic love? Thinking of Him as their husband, they rendered such intimate services as massaging His feet."
+    },
+    "gpt": {
+        "terms": {
+            "याः": "Those",
+            "सम्पर्यचरन्प्रेम्णा": "With love and devotion",
+            "पादसंवाहनादिभिः": "By carrying the guru's sandals and other items",
+            "जगद्गुरुं": "The spiritual teacher of the world",
+            "भर्तृबुद्ध्या": "With deep understanding",
+            "तासां": "Of them",
+            "किं": "What",
+            "वर्ण्यते": "Can be described",
+            "तपः": "As their spiritual practice"
+        },
+        "meaning": " Meaning: Those who, with love and devotion, serve their spiritual teacher by carrying his sandals and other items, and who deeply understand the guru's teachings what can be described as their spiritual practice?"
+    },
+    "bard": {
+        "terms": {
+            "yaḥ": "who",
+            "samparyacaran": "worship",
+            "premṇā": "with love",
+            "pāda": "feet",
+            "saṁvāhana": "serving",
+            "ādibhiḥ": "etc.",
+            "jagat": "world",
+            "gurum": "as guru",
+            "bhartṛ": "husband",
+            "buddhyā": "with mind",
+            "tāsām": "of those",
+            "kim": "what",
+            "varṇyate": "can be described",
+            "tapaḥ": "penance"
+        },
+        "meaning": "Who worships the world with love, serving the feet etc. of her husband with the mind of a guru, what penance can be described of those?"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "verse_no": "७-१०-३०",
+    "verse": "नैवं विभोऽसुराणां ते प्रदेयः पद्मसम्भव ।\nवरः क्रूरनिसर्गाणामहीनाममृतं यथा ॥",
+    "meaning": "ब्रह्मा ऐसा बर नहीं दिया करो राक्षसों को, ब्रह्मा को कहना पड़ा महाराज गल्ती हो गई",
+    "vedabase": {
+        "terms": {
+            "śrī-bhagavān uvāca": "the Supreme Personality of Godhead replied (to Brahmā)",
+            "mā": "do not",
+            "evam": "thus",
+            "vibho": "O great person",
+            "asurāṇām": "unto the demons",
+            "te": "by you",
+            "pradeyaḥ": "bestow benedictions",
+            "padma-sambhava": "O Lord Brahmā, born from the lotus flower",
+            "varaḥ": "benediction",
+            "krūra-nisargāṇām": "persons who are by nature very cruel and jealous",
+            "ahīnām": "to snakes",
+            "amṛtam": "nectar or milk",
+            "yathā": "just as."
+        },
+        "translation": "The Personality of Godhead replied: My dear Lord Brahmā, O great lord born from the lotus flower, just as it is dangerous to feed milk to a snake, so it is dangerous to give benedictions to demons, who are by nature ferocious and jealous. I warn you not to give such benedictions to any demon again."
+    },
+    "gpt": {
+        "terms": {
+            "मैवं (maivam)": "In this way",
+            "विभोऽसुराणां (vibho 'suranam)": "O Lord of Asuras (demonic beings)",
+            "ते (te)": "Your",
+            "प्रदेयः (pradeyah)": "to be bestowed",
+            "पद्मसम्भव (padmasambhava)": "O lotus-born one (referring to Lord Brahma)",
+            "वरः (varah)": "boon",
+            "क्रूरनिसर्गाणाम् (krura": "nisarganam) - for the cruel ones",
+            "अहीनाम् (ahinam)": "of serpents",
+            "अमृतं (amritam)": "immortality",
+            "यथा (yatha)": "like"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "śrī-bhagavān": "Śrī Bhagavān",
+            "uvāca": "said",
+            "mā": "do not",
+            "evam": "thus",
+            "vibho": "O Vibho",
+            "asurāṇām": "to the demons",
+            "te": "you",
+            "pradeyaḥ": "give",
+            "padma-sambhava": "born of a lotus",
+            "varaḥ": "boon",
+            "krūra-nisargāṇām": "cruel by nature",
+            "ahīnām": "wicked",
+            "amṛtam": "immortality",
+            "yathā": "as"
+        },
+        "meaning": "Overall meaning: Śrī Bhagavān said, \"O Vibho, do not give the boon of immortality to the cruel by nature and wicked demons.\""
+    }
+}

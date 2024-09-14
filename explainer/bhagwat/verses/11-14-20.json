@@ -1,0 +1,52 @@
+{
+    "verse_no": "११-१४-२०",
+    "verse": "न साधयति मां योगो न साङ्ख्यं धर्म उद्धव ।\nन स्वाध्यायस्तपस्त्यागो यथा भक्तिर्ममोर्जिता ॥",
+    "vedabase": {
+        "terms": {
+            "na": "not",
+            "sādhayati": "brings under control",
+            "mām": "Me",
+            "yogaḥ": "the yoga system",
+            "sāṅkhyam": "the system of Sāṅkhya philosophy",
+            "dharmaḥ": "pious activities within the varṇāśrama system",
+            "uddhava": "My dear Uddhava",
+            "svādhyāyaḥ": "Vedic study",
+            "tapaḥ": "austerity",
+            "tyāgaḥ": "renunciation",
+            "yathā": "as",
+            "bhaktiḥ": "devotional service",
+            "mama": "unto Me",
+            "ūrjitā": "strongly developed."
+        },
+        "translation": "My dear Uddhava, the unalloyed devotional service rendered to Me by My devotees brings Me under their control. I cannot be thus controlled by those engaged in mystic yoga, Sāṅkhya philosophy, pious work, Vedic study, austerity or renunciation.  ",
+        "purport": "One may make Kṛṣṇa the goal of mystic yoga, Sāṅkhya philosophy, etc.; yet such activities do not please the Lord as much as direct loving service, which one practices by hearing and chanting about the Lord and executing His mission. Śrīla Rūpa Gosvāmī states, jñāna-karmādy-anāvṛtam: a devotee should simply depend on Kṛṣṇa and should not unnecessarily complicate his loving service with tendencies toward fruitive work or mental speculation. The residents of Vṛndāvana simply depend on Lord Kṛṣṇa. When the great serpent Aghāsura appeared in the precincts of Vraja, the cowherd boys, completely confident in their friendship with Lord Kṛṣṇa, fearlessly marched into the serpent’s gigantic mouth. Such pure love for Kṛṣṇa brings the Lord under the control of the devotee."
+    },
+    "gpt": {
+        "terms": {
+            "न (na)": "not",
+            "साधयति (sādhayati)": "achieves, attains",
+            "मां (mām)": "me",
+            "योगो (yogo)": "yoga",
+            "साङ्ख्यं (sāṅkhyaṁ)": "Sāṅkhya philosophy",
+            "धर्म (dharma)": "righteousness, duty",
+            "उद्धव (uddhava)": "Uddhava (the speaker of this verse, a devotee of Lord Krishna)",
+            "स्वाध्याय (svādhyāya)": "self-study",
+            "तपस्त्यागो (tapastyāgo)": "renunciation of austerity",
+            "यथा (yathā)": "like",
+            "भक्तिः (bhaktiḥ)": "devotion",
+            "मम (mama)": "my",
+            "उर्जिता (urjitā)": "gained, acquired",
+            "Uddhava, devotion gained by me (Krishna) cannot be achieved through yoga, Sāṅkhya philosophy, self": "study, or renunciation of austerity."
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "na sādhayati mām  योगः": "yoga does not lead me to",
+            "sāṅkhyam   धर्मः  uddhava": "sāṅkhya does not lead me to",
+            "svādhyāyaḥ   तपः   त्यागः": "svādhyāya does not lead me to",
+            "यथा   भक्तिः   mama   ūrjitā": "bhakti does not lead me to"
+        },
+        "meaning": ""
+    }
+}

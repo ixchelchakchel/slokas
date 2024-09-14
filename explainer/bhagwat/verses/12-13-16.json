@@ -1,0 +1,53 @@
+{
+    "verse_no": "१२-१३-१६",
+    "verse": "निम्नगानां यथा गङ्गा देवानामच्युतो यथा ।\nवैष्णवानां यथा शम्भुः पुराणानामिदं तथा ॥",
+    "vedabase": {
+        "terms": {
+            "nimna-gānām": "of rivers flowing down to the sea",
+            "yathā": "as",
+            "gaṅgā": "the Ganges",
+            "devānām": "of all deities",
+            "acyutaḥ": "the infallible Supreme Personality of Godhead",
+            "vaiṣṇavānām": "of devotees of Lord Viṣṇu",
+            "śambhuḥ": "Śiva",
+            "purāṇānām": "of Purāṇas",
+            "idam": "this",
+            "tathā": "similarly."
+        },
+        "translation": "Just as the Gaṅgā is the greatest of all rivers, Lord Acyuta the supreme among deities and Lord Śambhu [Śiva] the greatest of Vaiṣṇavas, so Śrīmad-Bhāgavatam is the greatest of all Purāṇas."
+    },
+    "gpt": {
+        "terms": {
+            "निम्नगानाम्": "Among the lower",
+            "यथा": "just like",
+            "गङ्गा": "the Ganga River",
+            "देवानाम्": "among the gods",
+            "अच्युतः": "Achyuta (a name of Lord Vishnu, meaning \"imperishable\")",
+            "वैष्णवानाम्": "among the Vaishnavas (followers of Lord Vishnu)",
+            "शम्भुः": "Shambhu (a name of Lord Shiva, meaning \"auspicious one\")",
+            "पुराणानाम्": "among the Puranas (ancient Hindu scriptures)",
+            "इदं": "this",
+            "तथा": "similarly"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "nimna-gānām": "low-flowing rivers",
+            "yathā": "like",
+            "gaṅgā": "Ganges",
+            "devānām": "of gods",
+            "acyutaḥ": "undecaying one",
+            "vaiṣṇavānām": "of Vishnuites",
+            "śambhuḥ": "Shiva",
+            "purāṇānām": "of Puranas",
+            "idam": "this",
+            "tathā": "also",
+            "low-flowing rivers": "Ganges",
+            "gods": "undecaying one",
+            "Vishnuites": "Shiva",
+            "Puranas": "this"
+        },
+        "meaning": "Meaning:also"
+    }
+}

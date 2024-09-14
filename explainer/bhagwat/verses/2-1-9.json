@@ -1,0 +1,52 @@
+{
+    "verse_no": "२-१-९",
+    "verse": "परिनिष्ठितोऽपि नैर्गुण्य उत्तमश्लोकलीलया ।\nगृहीतचेता राजर्षे आख्यानं यदधीतवान् ॥",
+    "vedabase": {
+        "terms": {
+            "pariniṣṭhitaḥ": "fully realized",
+            "api": "in spite of",
+            "nairguṇye": "in transcendence",
+            "uttama": "enlightened",
+            "śloka": "verse",
+            "līlayā": "by the pastimes",
+            "gṛhīta": "being attracted",
+            "cetāḥ": "attention",
+            "rājarṣe": "O saintly King",
+            "ākhyānam": "delineation",
+            "yat": "that",
+            "adhītavān": "I have studied."
+        },
+        "translation": "O saintly King, I was certainly situated perfectly in transcendence, yet I was still attracted by the delineation of the pastimes of the Lord, who is described by enlightened verses.  ",
+        "purport": "The Absolute Truth is realized at the first instance as the impersonal Brahman by philosophical speculation and later as the Supersoul by further progress of transcendental knowledge. But if, by the grace of the Lord, an impersonalist is enlightened by the superior statements of Śrīmad-Bhāgavatam, he is also converted into a transcendental devotee of the Personality of Godhead. With a poor fund of knowledge, we cannot adjust to the idea of the personality of the Absolute Truth, and therefore the personal activities of the Lord are deplored by the less intelligent impersonalists; but reasons and arguments, together with the transcendental process of approaching the Absolute Truth, help even the staunch impersonalist to become attracted by the personal activities of the Lord. A person like Śukadeva Gosvāmī cannot be attracted by any mundane activity, but when such a devotee is convinced by a superior method, he is certainly attracted by the transcendental activities of the Lord. The Lord is transcendental, as are His activities. He is neither inactive nor impersonal."
+    },
+    "gpt": {
+        "terms": {
+            "परिनिष्ठितः (pariniṣṭhitaḥ)": "established, well-versed",
+            "अपि (api)": "even",
+            "नैर्गुण्यः (nairguṇyaḥ)": "devoid of qualities, beyond worldly attributes",
+            "उत्तमश्लोकलीलया (uttamaślokalīlayā)": "through the playful activity of divine verses",
+            "गृहीतचेताः (gṛhītacetāḥ)": "having grasped, understood",
+            "राजर्षे (rājarṣe)": "O sage among kings",
+            "आख्यानं (ākhyānaṃ)": "the stories, narratives",
+            "यदधीतवान् (yadadhītavān)": "that which you have learned"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "pari-ni-ṣṭhitaḥ `": "` completely established",
+            "api `": "` even",
+            "nairguṇye `": "` in the qualityless state",
+            "uttama `": "` highest",
+            "śloka `": "` verse",
+            "līlayā `": "` by play",
+            "gṛhīta `": "` captured",
+            "cetāḥ `": "` mind",
+            "rājarṣe `": "` of the king of seers",
+            "ākhyānam `": "` story",
+            "yat `": "` that",
+            "adhītavān `": "` studied"
+        },
+        "meaning": "Completely established even in the qualityless state, by the playful verse, captured the mind of the king of seers, the story that he studied."
+    }
+}

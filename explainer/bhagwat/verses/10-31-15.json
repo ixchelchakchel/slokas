@@ -1,0 +1,80 @@
+{
+    "verse_no": "१०-३१-१५",
+    "verse": "अटति यद् भवानह्नि काननं त्रुटि युगायते त्वामपश्यताम् ।\nकुटिलकुन्तलं श्रीमुखं च ते जड उदीक्षतां पक्ष्मकृद् दृशाम् ॥",
+    "ref": [
+        "रास पंचध्यायी १६४",
+        "नारद भक्ति दर्शन - २३६"
+    ],
+    "vedabase": {
+        "terms": {
+            "aṭati": "travel",
+            "yat": "when",
+            "bhavān": "You",
+            "ahni": "during the daytime",
+            "kānanam": "to the forest",
+            "truṭi": "about 1/1700 of a second",
+            "yugāyate": "becomes like an entire millennium",
+            "tvām": "You",
+            "apaśyatām": "for those who do not see",
+            "kuṭila": "curling",
+            "kuntalam": "with locks of hair",
+            "śrī": "beautiful",
+            "mukham": "face",
+            "ca": "and",
+            "te": "Your",
+            "jaḍaḥ": "foolish",
+            "udīkṣatām": "for those who are eagerly looking",
+            "pakṣma": "of lids",
+            "kṛt": "the creator",
+            "dṛśām": "of the eyes."
+        },
+        "translation": "When You go off to the forest during the day, a tiny fraction of a second becomes like a millennium for us because we cannot see You. And even when we can eagerly look upon Your beautiful face, so lovely with its adornment of curly locks, our pleasure is hindered by our eyelids, which were fashioned by the foolish creator."
+    },
+    "gpt": {
+        "terms": {
+            "अटति (aṭati)": "jumps, moves",
+            "यद् (yad)": "that",
+            "भवान् (bhavān)": "you",
+            "अह्नि (ahni)": "in the fire",
+            "काननं (kānanam)": "forest",
+            "त्रुटि (truṭi)": "error, mistake",
+            "युगायते (yugāyate)": "causes harm, destroys",
+            "त्वाम् (tvām)": "you",
+            "अपश्यताम् (apaśyatām)": "for those who cannot see",
+            "कुटिलकुन्तलं (kuṭilakuntalam)": "curly locks of hair",
+            "श्रीमुखं (śrīmukham)": "beautiful face",
+            "च (cha)": "and",
+            "ते (te)": "your",
+            "जड (jaḍa)": "inert, lifeless",
+            "उदीक्षतां (udīkṣatām)": "eagerly waiting",
+            "पक्ष्मकृत् (pakṣmakṛit)": "eyelashes",
+            "दृशाम् (dṛśām)": "for the eyes"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "aṭati": "to break",
+            "yat": "that",
+            "bhavān": "you",
+            "agni": "fire",
+            "kānanam": "forest",
+            "truṭi": "burns",
+            "yugāyate": "ages",
+            "tvām": "you",
+            "apaśyatām": "not see",
+            "kuṭila": "crooked",
+            "kuntalam": "hair",
+            "śrī": "beautiful",
+            "mukham": "face",
+            "ca": "and",
+            "te": "your",
+            "jaḍaḥ": "stupid",
+            "udīkṣatām": "look at",
+            "pakṣma": "eye-lid",
+            "kṛt": "closed",
+            "dṛśām": "eyes"
+        },
+        "meaning": "The fire that burns the forest of ages,You do not see, stupid!With closed eyes, look at your beautiful faceAnd crooked hair."
+    }
+}

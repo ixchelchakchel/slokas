@@ -1,0 +1,52 @@
+{
+    "verse_no": "११-१६-३५",
+    "verse": "ब्रह्मण्यानां बलिरहं वीराणामहमर्जुनः ।\nभूतानां स्थितिरुत्पत्तिरहं वै प्रतिसङ्क्रमः ॥",
+    "vedabase": {
+        "terms": {
+            "brahmaṇyānām": "of those dedicated to brahminical culture",
+            "baliḥ": "Bali Mahārāja, the son of Virocana",
+            "aham": "I am",
+            "vīrāṇām": "of heroes",
+            "arjunaḥ": "Arjuna",
+            "bhūtānām": "of all living beings",
+            "sthitiḥ": "the maintenance",
+            "utpattiḥ": "the creation",
+            "vai": "indeed",
+            "pratisaṅkramaḥ": "the annihilation."
+        },
+        "translation": "Among those dedicated to brahminical culture I am Bali Mahārāja, the son of Virocana, and I am Arjuna among heroes. Indeed, I am the creation, maintenance and annihilation of all living entities."
+    },
+    "gpt": {
+        "terms": {
+            "ब्रह्मण्यानां": "of those who possess knowledge of the supreme reality (Brahman)",
+            "बलिरहं": "I am the strength",
+            "वीराणाम्": "among the heroic individuals",
+            "अहम्": "I",
+            "अर्जुनः": "am Arjuna",
+            "भूतानां": "among created beings",
+            "स्थितिः": "the state of being",
+            "उत्पत्तिः": "the origin",
+            "वै": "indeed",
+            "प्रतिसङ्क्रमः": "the reversal/retreat"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "brahmṇyānām": "of brahmins",
+            "baliḥ": "power",
+            "aham": "I",
+            "vīrāṇām": "of heroes",
+            "arjunaḥ": "Arjuna",
+            "bhūtānām": "of beings",
+            "sthitiḥ": "existence",
+            "utpattiḥ": "birth",
+            "vai": "indeed",
+            "pratisaṅkramaḥ": "return",
+            "of brahmins": "power = I",
+            "of heroes": "Arjuna = existence",
+            "of beings": "birth = return"
+        },
+        "meaning": "I am the power of brahmins, Arjuna is the strength of heroes, existence of beings, birth and return"
+    }
+}

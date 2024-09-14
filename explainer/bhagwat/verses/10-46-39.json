@@ -1,0 +1,66 @@
+{
+    "verse_no": "१०-४६-३९",
+    "verse": "न चास्य कर्म वा लोके सदसन्मिश्रयोनिषु ।\nक्रीडार्थः सोऽपि साधूनां परित्राणाय कल्पते ॥",
+    "vedabase": {
+        "terms": {
+            "na": "there is not",
+            "ca": "and",
+            "asya": "for Him",
+            "karma": "work",
+            "vā": "or",
+            "loke": "in this world",
+            "sat": "pure",
+            "asat": "impure",
+            "miśra": "or mixed",
+            "yoniṣu": "in wombs or species",
+            "krīḍā": "of playing",
+            "artham": "for the sake",
+            "saḥ": "He",
+            "api": "also",
+            "sādhūnām": "of His saintly devotees",
+            "paritrāṇāya": "for the saving",
+            "kalpate": "appears."
+        },
+        "translation": "He has no work to do in this world that would oblige Him to take birth in pure, impure or mixed species of life. Yet to enjoy His pastimes and deliver His saintly devotees, He manifests Himself."
+    },
+    "gpt": {
+        "terms": {
+            "न": "not",
+            "च": "and",
+            "अस्य": "of this (person)",
+            "कर्म": "action/deed",
+            "वा": "or",
+            "लोके": "in the world",
+            "सदसन्मिश्रयोनिषु": "among the virtuous and wicked",
+            "क्रीडार्थः": "for the sake of play/recreation",
+            "सः": "that (person)",
+            "अपि": "also",
+            "साधूनां": "of the righteous",
+            "परित्राणाय": "for the protection/deliverance",
+            "कल्पते": "is deemed/appropriate"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "na": "not",
+            "ca": "and",
+            "asya": "his",
+            "karma": "karma",
+            "vā": "or",
+            "loke": "in the world",
+            "sat": "being",
+            "asat": "non-being",
+            "miśra": "mixed",
+            "yoniṣu": "wombs",
+            "krīḍā": "play",
+            "artham": "for sake of",
+            "saḥ": "he",
+            "api": "also",
+            "sādhūnām": "for the good",
+            "paritrāṇāya": "for protection",
+            "kalpate": "causes"
+        },
+        "meaning": ""
+    }
+}

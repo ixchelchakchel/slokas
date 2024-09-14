@@ -1,0 +1,41 @@
+{
+    "verse_no": "७-१३-८",
+    "verse": "न शिष्याननुबध्नीत ग्रन्थान्नैवाभ्यसेद् बहून् ।\nन व्याख्यामुपयुञ्जीत नारम्भानारभेत्‍क्‍वचित् ॥",
+    "meaning": "ये तमाम चेलों का ये जो नाटक होता है ये नहीं होना चाहिए ",
+    "vedabase": {
+        "terms": {
+            "na": "nor",
+            "śiṣyān": "disciples",
+            "anubadhnīta": "one should induce for material benefit",
+            "granthān": "unnecessary literatures",
+            "eva": "certainly",
+            "abhyaset": "should try to understand or cultivate",
+            "bahūn": "many",
+            "vyākhyām": "discourses",
+            "upayuñjīta": "should make as a means of livelihood",
+            "ārambhān": "unnecessary opulences",
+            "ārabhet": "should attempt to increase",
+            "kvacit": "at any time."
+        },
+        "translation": "A sannyāsī must not present allurements of material benefits to gather many disciples, nor should he unnecessarily read many books or give discourses as a means of livelihood. He must never attempt to increase material opulences unnecessarily.  ",
+        "purport": "So-called svāmīs and yogīs generally make disciples by alluring them with material benefits. There are many so-called gurus who attract disciples by promising to cure their diseases or increase their material opulence by manufacturing gold. These are lucrative allurements for unintelligent men. A sannyāsī is prohibited from making disciples through such material allurements. Sannyāsīs sometimes indulge in material opulence by unnecessarily constructing many temples and monasteries, but actually such endeavors should be avoided. Temples and monasteries should be constructed for the preaching of spiritual consciousness or Kṛṣṇa consciousness, not to provide free hotels for persons who are useful for neither material nor spiritual purposes. Temples and monasteries should be strictly off limits to worthless clubs of crazy men. In the Kṛṣṇa consciousness movement we welcome everyone who agrees at least to follow the movement’s regulative principles — no illicit sex, no intoxication, no meat-eating and no gambling. In the temples and monasteries, gatherings of unnecessary, rejected, lazy fellows should be strictly disallowed. The temples and monasteries should be used exclusively by devotees who are serious about spiritual advancement in Kṛṣṇa consciousness. Śrīla Viśvanātha Cakravartī Ṭhākura explains the word ārambhān as meaning maṭhādi-vyāpārān, which means “attempts to construct temples and monasteries.” The first business of the sannyāsī is to preach Kṛṣṇa consciousness, but if, by the grace of Kṛṣṇa, facilities are available, then he may construct temples and monasteries to give shelter to the serious students of Kṛṣṇa consciousness. Otherwise such temples and monasteries are not needed."
+    },
+    "gpt": {
+        "terms": {
+            "न शिष्याननुबध्नीत ग्रन्थान्": "Do not insist that the disciples study the scriptures",
+            "नैवाभ्यसेत् बहून्": "Do not expect them to memorize many texts",
+            "न व्याख्यामुपयुञ्जीत": "Do not engage in excessive commentary",
+            "नारम्भान् आरभेत्": "Do not begin teaching without proper preparation"
+        },
+        "meaning": " This verse emphasizes the importance of a balanced approach to teaching and learning. It advises against forcing students to study a large number of texts, as it may create unnecessary burden and hinder true understanding. Similarly, it discourages excessive commentary, implying that it is important to let the texts speak for themselves and not get too caught up in theoretical explanations. Additionally, it suggests that a teacher should not start teaching without proper preparation and knowledge, indicating the importance of being well prepared and confident in one's teachings. Overall, the verse calls for a mindful and balanced approach to the study and teaching of scriptures."
+    },
+    "bard": {
+        "terms": {
+            "na śiṣyān anubadhnīta `": "do not teach students'",
+            "granthān eva abhyaset `": "study only books'",
+            "bahūn vyākhyām upayuñjīta `": "use many explanations'",
+            "ārambhān ārabhet kvacit `": "sometimes start new projects'"
+        },
+        "meaning": "Do not teach students, study only books, use many explanations, sometimes start new projects"
+    }
+}

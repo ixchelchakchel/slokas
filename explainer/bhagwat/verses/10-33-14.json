@@ -1,0 +1,57 @@
+{
+    "verse_no": "१०-३३-१४",
+    "verse": "गोप्यो लब्ध्वाच्युतं कान्तं श्रिय एकान्तवल्लभम् । \nगृहीतकण्ठ्यस्तद्दोर्भ्यां गायन्त्यस्तं विजह्रिरे ॥ ",
+    "vedabase": {
+        "terms": {
+            "gopyaḥ": "the gopīs",
+            "labdhvā": "having attained",
+            "acyutam": "the infallible Lord",
+            "kāntam": "as their lover",
+            "śriyaḥ": "of the goddess of fortune",
+            "ekānta": "the exclusive",
+            "vallabham": "lover",
+            "gṛhīta": "held",
+            "kaṇṭhyaḥ": "their necks",
+            "tat": "His",
+            "dorbhyām": "by the arms",
+            "gāyantyaḥ": "singing",
+            "tam": "about Him",
+            "vijahrire": "they took pleasure."
+        },
+        "translation": "Having attained as their intimate lover Lord Acyuta, the exclusive consort of the goddess of fortune, the gopīs enjoyed great pleasure. They sang His glories as He held their necks with His arms."
+    },
+    "gpt": {
+        "terms": {
+            "गोप्यः": "secret",
+            "लब्ध्वा": "having obtained",
+            "अच्युतं": "the infallible one (referring to Sri Krishna)",
+            "कान्तं": "the beloved",
+            "श्रिया": "by Sri (referring to Goddess Lakshmi)",
+            "एकान्तवल्लभम्": "who is dear to her heart",
+            "गृहीतकण्ठ्यः": "embraced by the throat",
+            "तद्दोर्भ्याम्": "by those two (referring to Goddess Saraswati and Goddess Parvati)",
+            "गायन्त्यः": "who are singing",
+            "तं": "him (referring to Sri Krishna)",
+            "विजह्रिरे": "they were singing"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "gopyaḥ": "gopīs = milkmaids",
+            "labdhvā": "having obtained",
+            "acyutam": "acyuta = inexhaustible",
+            "kāntam": "beloved",
+            "śriyaḥ": "śrī = fortune",
+            "ekānta vallabham": "exclusive beloved",
+            "gṛhīta": "holding",
+            "kaṇṭhyaḥ": "braids",
+            "tat": "that",
+            "dorbhyām": "two hands",
+            "gāyantyaḥ": "singing",
+            "tam": "him",
+            "vijahrire": "rejoiced"
+        },
+        "meaning": "Milkmaids, having obtained the inexhaustible, exclusive beloved, fortune, holding their braids in two hands, singing him, rejoiced."
+    }
+}

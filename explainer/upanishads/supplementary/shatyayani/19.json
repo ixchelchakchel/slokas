@@ -1,0 +1,29 @@
+```json
+{
+  "अयाचितम्": "unasked for",
+  "याचितम्": "asked for",
+  "वोत": "or",
+  "भैक्षम्": "alms",
+  "मृद्": "earth",
+  "दार्व": "wood",
+  "लाबू": "gourd",
+  "फल": "fruit",
+  "पर्ण": "leaf",
+  "पात्रम्": "bowl",
+  "क्षीणम्": "worn out",
+  "क्षौमम्": "linen",
+  "तृणम्": "grass",
+  "कन्था": "blanket",
+  "अजिन": "skin",
+  "च": "and",
+  "पर्ण": "leaf",
+  "माच्छादनम्": "covering",
+  "स्यात्": "should be",
+  "अहतम्": "unbeaten",
+  "वा": "or",
+  "विमुक्तः": "free"
+},
+"overall_meaning": "Alms should be unasked for or asked for, a bowl made of earth, wood, gourd, fruit, or leaves. A worn-out linen, grass, blanket, skin, or a leaf should be used as a covering. It should be un-beaten or free." 
+```
+
+This JSON object represents the Sanskrit verse, breaking it down into its individual words. Each word serves as a key with its corresponding meaning as the value. The overall meaning provides a concise interpretation of the verse, combining the individual word meanings into a coherent message. 

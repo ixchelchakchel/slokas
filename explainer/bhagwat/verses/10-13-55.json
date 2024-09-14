@@ -1,0 +1,58 @@
+{
+    "verse_no": "१०-१३-५५",
+    "verse": "एवं सकृद् ददर्शाजः परब्रह्मात्मनोऽखिलान् ।\nयस्य भासा सर्वमिदं विभाति सचराचरम् ॥",
+    "vedabase": {
+        "terms": {
+            "evam": "thus",
+            "sakṛt": "at one time",
+            "dadarśa": "saw",
+            "ajaḥ": "Lord Brahmā",
+            "para-brahma": "of the Supreme Absolute Truth",
+            "ātmanaḥ": "expansions",
+            "akhilān": "all the calves and boys, etc.",
+            "yasya": "of whom",
+            "bhāsā": "by the manifestation",
+            "sarvam": "all",
+            "idam": "this",
+            "vibhāti": "is manifested",
+            "sa-cara-acaram": "whatever is moving and nonmoving."
+        },
+        "translation": "Thus Lord Brahmā saw the Supreme Brahman, by whose energy this entire universe, with its moving and nonmoving living beings, is manifested. He also saw at the same time all the calves and boys as the Lord’s expansions.  ",
+        "purport": "By this incident, Lord Brahmā was able to see how Kṛṣṇa maintains the entire universe in different ways. It is because Kṛṣṇa manifests everything that everything is visible."
+    },
+    "gpt": {
+        "terms": {
+            "एवं": "इस प्रकार, अवस्था में",
+            "सकृत्": "एक बार",
+            "ददर्श": "देखा",
+            "अजः": "ब्रह्मा",
+            "परब्रह्मात्मनः": "परब्रह्म (परमात्मा) का स्वरूप",
+            "अखिलान्": "संपूर्ण",
+            "यस्य": "जिसका",
+            "भासा": "प्रकाश",
+            "सर्वमिदं": "सब कुछ",
+            "विभाति": "व्यक्त होता है",
+            "सचराचरम्": "स्थावर-जगत और जीव-जगत्‌ (सभी जीव और अजीव प्राणियों के संगठन)।",
+            "अर्थ": "इस प्रकार, एक बार श्रीब्रह्माजी ने परब्रह्म (परमात्मा) के स्वरूप को सब कुछ को व्यक्त करने वाले प्रकाश से देखा है। उन दर्शन में संयुक्त जगत्‌ (स्थावर-जगत) और प्राणी जगत्‌ (सभी जीव और अजीव प्राणियों के संगठन) शामिल होते हैं।"
+        },
+        "meaning": ""
+    },
+    "bard": {
+        "terms": {
+            "evam": "thus",
+            "sakṛt": "once",
+            "dadarśa": "saw",
+            "ajaḥ": "unborn",
+            "para-brahma": "highest Brahman",
+            "ātmanaḥ": "of the Self",
+            "akhilān": "all",
+            "yasya": "whose",
+            "bhāsā": "light",
+            "sarvam": "all",
+            "idam": "this",
+            "vibhāti": "shines",
+            "sa-cara-acaram": "mobile and immobile"
+        },
+        "meaning": "Thus once the unborn saw the highest Brahman of the Self, whose light shines in all this, mobile and immobile."
+    }
+}
